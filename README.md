@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Aditya Satheesh and I am interested in handling data and contributing to open-source projects with applied AI and MLOps.
+I am Aditya Satheesh and I am interested in handling data and contributing to open-source projects with applied AI engineering and MLOps.
 
 <!--
 **cybersamurai2410/cybersamurai2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
