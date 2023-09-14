@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Skills 💻
 
-- **Programming Languages:** Python, Java, C++, JavaScript, R, C
+- **Programming Languages:** Python, Java, JavaScript, C, C++, R
 - **Data Science:** Pandas, NumPy, Scikit-Learn
 - **Database:** SQL, MongoDB
 - **Version Control:** Git, GitHub
