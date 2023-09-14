@@ -38,7 +38,8 @@ Here are some ideas to get you started:
 - **Cloud Computing:** AWS, Azure
 - **Other:** REST API, Linux, Bash
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?cybersamurai2410=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+ranking_index = (byte_count ^ size_weight) * (repo_count ^ count_weight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contacts 📞
 
