@@ -19,10 +19,15 @@ Here are some ideas to get you started:
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybersamurai2410)](https://github.com/anuraghazra/github-readme-stats)-->
 
-### Qualifications 📖 
+### Education 📖 
 
   - BSc Hons Computer Science
-  - MSc Advanced Computing 
+  - MSc Advanced Computing
+
+### Certifications 🏆
+
+  - Deep Learning Specialization (DeepLearning.AI)
+  - Microsoft Azure AI Fundamentals 
 
 ### Skills 💻
 
