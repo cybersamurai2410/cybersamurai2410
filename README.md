@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 - **Cloud Computing:** AWS, Azure
 - **Other:** REST API, Linux, Bash
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?cybersamurai2410=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contacts 📞
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
