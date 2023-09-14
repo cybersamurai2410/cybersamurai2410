@@ -18,3 +18,15 @@ Here are some ideas to get you started:
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybersamurai2410)](https://github.com/anuraghazra/github-readme-stats)
 -->
+
+### Skills
+
+- **Programming Languages:** Python, JavaScript, Java
+- **Web Development:** HTML, CSS, React
+- **Data Science:** Pandas, NumPy, Scikit-Learn
+- **Database:** SQL, MongoDB
+- **Version Control:** Git, GitHub
+- **Machine Learning:** TensorFlow, PyTorch
+- **DevOps:** Docker, Kubernetes
+- **Cloud Computing:** AWS, Azure
+- **Other:** REST API, Linux, Bash
