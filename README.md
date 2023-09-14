@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Certifications 🏆
 
-  - Deep Learning Specialization (DeepLearning.AI)
+  - Deep Learning Specialization (Coursera DeepLearning.AI)
   - Microsoft Azure AI Fundamentals 
 
 ### Skills 💻
