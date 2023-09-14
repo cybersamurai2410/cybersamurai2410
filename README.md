@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](mailto:aditya24102001@gmail.com)
 [![GitLab](https://img.shields.io/badge/GitLab-Profile-black?style=flat&logo=gitlab)](https://gitlab.com/cybersamurai2410)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/t0266882)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/16278572/devx20)
 [![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@aditya24102001)
 [![Dev.to](https://img.shields.io/badge/Dev.to-Profile-black?style=flat&logo=dev-dot-to)](https://dev.to/cybersamurai2410)
+[![Slack](https://img.shields.io/badge/Slack-Demo%20Workspace-purple?style=flat&logo=slack)](https://app.slack.com/client/T05RX99NHAB/setup-tada/rimeto_profile/U05S565R76J)
