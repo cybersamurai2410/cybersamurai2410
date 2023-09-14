@@ -40,6 +40,5 @@ Here are some ideas to get you started:
 
 ### Contacts 📞
 
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
-- [DevTo](https://dev.to/cybersamurai2410/)
+- [![Dev.to](https://img.shields.io/badge/Dev.to-Profile-black?style=flat&logo=dev-dot-to)](https://dev.to/cybersamurai2410)
