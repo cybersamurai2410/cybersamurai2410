@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
-### Platforms :octocat
+### Platforms :octocat:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](mailto:aditya24102001@gmail.com)
