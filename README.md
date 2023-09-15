@@ -54,5 +54,5 @@ Here are some ideas to get you started:
 [![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@aditya24102001)
 
 ## Showcase ##
-![Demo](https://github.com/cybersamurai2410/cybersamurai2410/blob/b3bce0dc4721b243142cb7f7314447c1f763cbf8/demo.gif)
+![Demo](https://github.com/cybersamurai2410/cybersamurai2410/blob/2fa0f11751ece42df94188d22b8969157dc1701e/demo.gif)
 
