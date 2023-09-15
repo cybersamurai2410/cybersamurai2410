@@ -1,4 +1,4 @@
-### Hi there 👋
+![pacman_demo](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/516fb7e7-8856-4bdb-9248-ae315da0b171)### Hi there 👋
 
 I am Aditya Satheesh and I am interested in handling data and contributing to open-source projects with applied AI engineering and MLOps.
 
@@ -55,4 +55,6 @@ Here are some ideas to get you started:
 
 ## Showcase ##
 ![Demo](https://github.com/cybersamurai2410/cybersamurai2410/blob/2fa0f11751ece42df94188d22b8969157dc1701e/demo.gif)
+![pacman_demo](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/ce9762d9-6541-45eb-ad8d-d7cf92e8983b)
+
 
