@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/16278572/devx20)
 [![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@aditya24102001)
 
-## Project Showcase ##
+## Project Showcase ##<br>
 <!-- ![Demo](https://github.com/cybersamurai2410/cybersamurai2410/blob/2fa0f11751ece42df94188d22b8969157dc1701e/demo.gif) -->
 
 **YOLOR object detection and DeepSORT tracking inference:**<br>
