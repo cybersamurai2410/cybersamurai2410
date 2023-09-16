@@ -54,7 +54,11 @@ Here are some ideas to get you started:
 [![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@aditya24102001)
 
 ## Showcase ##
-![Demo](https://github.com/cybersamurai2410/cybersamurai2410/blob/2fa0f11751ece42df94188d22b8969157dc1701e/demo.gif)
+<!-- ![Demo](https://github.com/cybersamurai2410/cybersamurai2410/blob/2fa0f11751ece42df94188d22b8969157dc1701e/demo.gif) -->
+
+**YOLO object detection and tracking:**
+![yolor_demo1](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/d7df5c52-d4ab-4d50-be48-99fd56be4763)
+![yolor_demo2](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/8e622804-4ac5-454e-a0bc-59a579cf59a1)
 
 **[Pacman using Q-Learning:](https://github.com/cybersamurai2410/MachineLearningCW.git)**<br>
 ![pacman_demo](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/ce9762d9-6541-45eb-ad8d-d7cf92e8983b)
