@@ -60,7 +60,8 @@ Here are some ideas to get you started:
 ![yolo_demo1](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/e3a1fc50-68b9-4a67-8fbe-1acc95da344f)
 ![yolo_demo2](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/c9d67573-8330-4561-8f8a-66b6084839ba)
 
-***[Threat Detector Application:]***<br>
+***[Threat Detector Application:](https://github.com/cybersamurai2410/Threat_Detector.git)***<br>
+![threatdetect_demo1](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/043f1ea2-c4c7-4768-b6d3-24fd4443c348)
 
 **[Pacman using Q-Learning:](https://github.com/cybersamurai2410/MachineLearningCW.git)**<br>
 ![pacman_demo](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/ce9762d9-6541-45eb-ad8d-d7cf92e8983b)
