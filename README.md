@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ### Certifications 🏆
 
   - Deep Learning Specialization (Coursera DeepLearning.AI)
+  - Google Advanced Data Analytics Professional Certificate
   - Microsoft Azure AI Fundamentals 
 
 ### Skills 💻
