@@ -56,8 +56,11 @@ Here are some ideas to get you started:
 ## Showcase ##
 <!-- ![Demo](https://github.com/cybersamurai2410/cybersamurai2410/blob/2fa0f11751ece42df94188d22b8969157dc1701e/demo.gif) -->
 
-**YOLO object detection and tracking:**
-![yolo_demo1](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/cd27f90d-e32e-46d5-b797-19bcf01a788b)
+**YOLOR object detection and DeepSORT tracking inference:**<br>
+![yolo_demo1](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/e3a1fc50-68b9-4a67-8fbe-1acc95da344f)
+![yolo_demo2](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/c9d67573-8330-4561-8f8a-66b6084839ba)
+
+***[Threat Detector Application:]***<br>
 
 **[Pacman using Q-Learning:](https://github.com/cybersamurai2410/MachineLearningCW.git)**<br>
 ![pacman_demo](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/ce9762d9-6541-45eb-ad8d-d7cf92e8983b)
