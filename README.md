@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 - **Version Control:** Git, GitHub
 - **Machine Learning:** TensorFlow, PyTorch
 - **Web Development:** HTML, CSS
-- **DevOps:** Docker, Kubernetes
-- **Cloud Computing:** AWS, Azure
+- **DevOps Tools:** Docker, Kubernetes
+- **Cloud Computing:** Amazon Web Services, Microsoft Azure, Google Cloud
 - **Other:** REST API, Linux, Bash
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
