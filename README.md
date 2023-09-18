@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ### Platforms :octocat:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-satheesh-6a2685291)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](mailto:aditya24102001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/cybersamurai2410)
 [![GitLab](https://img.shields.io/badge/GitLab-Profile-black?style=flat&logo=gitlab)](https://gitlab.com/cybersamurai2410)
