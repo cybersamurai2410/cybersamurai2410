@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ## Project Showcase <br>
 <!-- ![Demo](https://github.com/cybersamurai2410/cybersamurai2410/blob/2fa0f11751ece42df94188d22b8969157dc1701e/demo.gif) -->
 
-**Pose Estimation using MediaPipe**<br>
+**Pose Estimation using MediaPipe:**<br>
 ![pose_demo](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/7528ba91-8bf4-49e6-9af0-b746ff4bbda7)
 
 **YOLOR object detection and DeepSORT tracking inference:**<br>
