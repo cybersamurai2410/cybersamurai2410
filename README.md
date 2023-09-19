@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 ### Skills 💻
 
 - **Programming Languages:** Python, Java, JavaScript, C, C++, MATLAB, R, HTML5
+- **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch
 - **Data Science:** Pandas, NumPy, Scikit-Learn
 - **Database:** SQL, MongoDB
 - **Version Control:** Git, GitHub
-- **Machine Learning:** TensorFlow, Keras, PyTorch
 - **DevOps Tools:** Docker, Kubernetes
 - **Cloud Computing:** Amazon Web Services, Microsoft Azure, Google Cloud
 - **Other:** REST API, Linux, Bash
