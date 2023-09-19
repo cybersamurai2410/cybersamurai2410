@@ -68,3 +68,7 @@ Here are some ideas to get you started:
 
 **[Pacman using Q-Learning:](https://github.com/cybersamurai2410/MachineLearningCW.git)**<br>
 ![pacman_demo](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/ce9762d9-6541-45eb-ad8d-d7cf92e8983b)
+
+**[TitTacToe using MinMax search algorihtm:](https://github.com/cybersamurai2410/Tic-Tac-Toe.git)**<br>
+![tictactoe_demo](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/552b15ca-771a-44ce-8a41-8da837beb423)
+
