@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - **Data Science:** Pandas, NumPy, Scikit-Learn
 - **Database:** SQL, MongoDB
 - **Version Control:** Git, GitHub
-- **Machine Learning:** TensorFlow, PyTorch
+- **Machine Learning:** TensorFlow, Keras, PyTorch
 - **DevOps Tools:** Docker, Kubernetes
 - **Cloud Computing:** Amazon Web Services, Microsoft Azure, Google Cloud
 - **Other:** REST API, Linux, Bash
