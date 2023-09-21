@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 ### Education 📖 
 
-  - BSc Hons Computer Science
   - MSc Advanced Computing
+  - BSc Hons Computer Science
 
 ### Certifications 🏆
 
