@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 **[Threat Detector Application:](https://github.com/cybersamurai2410/Threat_Detector.git)**<br>
 ![threatdetect_demo1](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/043f1ea2-c4c7-4768-b6d3-24fd4443c348)
 
-**[Image Caption Generator using Deep Learning:]()**<br>
+**[Image Caption Generator using Deep Learning:](https://github.com/cybersamurai2410/Image_Caption.git)**<br>
 <img width="571" alt="imgcaption" src="https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/e018c6a1-de8a-416d-a485-765d081888a8">
 
 **[Pacman using Q-Learning reinforcement learning algorithm:](https://github.com/cybersamurai2410/MachineLearningCW.git)**<br>
