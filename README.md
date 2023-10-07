@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### Skills 💻
 
-- **Programming Languages:** Python, Java, JavaScript, C, C++, MATLAB, R, HTML5
+- **Programming Languages:** Python, Java, JavaScript, C, C++, C#, MATLAB, R, HTML5
 - **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch
 - **Data Science:** Pandas, NumPy, Scikit-Learn, Tableau 
 - **Database:** SQL, MongoDB
@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 [![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@aditya24102001)
 
 ## Project Showcase <br>
-<!-- ![Demo](https://github.com/cybersamurai2410/cybersamurai2410/blob/2fa0f11751ece42df94188d22b8969157dc1701e/demo.gif) -->
 
 **[Pose Estimation using MediaPipe:](https://github.com/cybersamurai2410/PoseEstimation.git)**<br>
 ![pose_demo](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/7528ba91-8bf4-49e6-9af0-b746ff4bbda7)
@@ -65,6 +64,9 @@ Here are some ideas to get you started:
 
 **[Threat Detector Application:](https://github.com/cybersamurai2410/Threat_Detector.git)**<br>
 ![threatdetect_demo1](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/043f1ea2-c4c7-4768-b6d3-24fd4443c348)
+
+**[Image Caption Generator using Deep Learning:]()**<br>
+<img width="571" alt="imgcaption" src="https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/e018c6a1-de8a-416d-a485-765d081888a8">
 
 **[Pacman using Q-Learning reinforcement learning algorithm:](https://github.com/cybersamurai2410/MachineLearningCW.git)**<br>
 ![pacman_demo](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/ce9762d9-6541-45eb-ad8d-d7cf92e8983b)
