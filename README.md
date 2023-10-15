@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ### Skills 💻
 
-- **Programming Languages:** Python, Java, JavaScript, C, C++, C#, MATLAB, R, HTML5
+- **Programming Languages:** Python, Java, JavaScript, C, C++, C#, Haskell, MATLAB, R, HTML5
 - **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch, XGBoost
 - **Data Science:** Pandas, NumPy, Scikit-Learn, Tableau 
 - **Database:** SQL, MongoDB
