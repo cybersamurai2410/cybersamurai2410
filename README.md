@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - **Version Control:** Git, GitHub
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, GitLab
 - **Cloud Computing:** Amazon Web Services, Microsoft Azure, Google Cloud
-- **Other:** REST API, Unit Testing, Algorithmic Complexity, Linux, Bash, JSON, XML
+- **Other:** REST API, Unit Testing, Algorithmic Complexity, Linux, Bash, JSON, XML, LaTeX
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
