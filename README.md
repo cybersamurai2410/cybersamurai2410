@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 - **Programming Languages:** Python, Java, JavaScript, C, C++, C#, Haskell, MATLAB, R, HTML5
 - **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch
 - **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost, Tableau 
-- **Database:** SQL, MongoDB
+- **Database:** SQL, MongoDB, Pinecone
 - **Version Control:** Git, GitHub
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, GitLab
 - **Cloud Computing:** Amazon Web Services, Microsoft Azure, Google Cloud
