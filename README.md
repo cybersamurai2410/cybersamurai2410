@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost, Tableau 
 - **Database Management:** SQL, MongoDB, Pinecone
 - **Computer Vision:** OpenCV, Scikit-Image, YOLO
-- **Natural Language Processing:** NLTK, Spacy, Hugging Face Transformers
+- **Natural Language Processing:** NLTK, Spacy, Hugging Face Transformers, LangChain
 - **Reinforcement Learning Tools:** OpenAI Gym, RLlib, Stable Baselines
 - **Version Control:** Git, GitHub
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, GitLab
