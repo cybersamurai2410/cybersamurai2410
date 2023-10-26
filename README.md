@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 - **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch
 - **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost, Tableau 
 - **Database Management:** SQL, MongoDB, Pinecone
+- **Computer Vision:** OpenCV, Scikit-Image, YOLO
+- **Natural Language Processing:** NLTK, Spacy, Hugging Face Transformers
+- **Reinforcement Learning Tools:** OpenAI Gym, RLlib, Stable Baselines
 - **Version Control:** Git, GitHub
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, GitLab
 - **Cloud Computing:** Amazon Web Services, Microsoft Azure, Google Cloud
