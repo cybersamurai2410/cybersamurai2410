@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 **[Image Caption Generator using Deep Learning:](https://github.com/cybersamurai2410/Image_Caption.git)**<br>
 <img width="571" alt="imgcaption" src="https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/e018c6a1-de8a-416d-a485-765d081888a8">
 
-**[Generative Adversarial Networks:](https://github.com/cybersamurai2410/GAN-image_gen.git)**<br>
+**[Deep Convolutional Generative Adversarial Networks (DCGAN):](https://github.com/cybersamurai2410/GAN-image_gen.git)**<br>
 ![dcgan](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/bfef8fe9-2e1a-45b6-8938-2918e29ea498)
 
 **[Pacman using Q-Learning reinforcement learning algorithm:](https://github.com/cybersamurai2410/MachineLearningCW.git)**<br>
