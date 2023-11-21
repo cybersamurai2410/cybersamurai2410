@@ -5,7 +5,7 @@ I am Aditya Satheesh and I am interested in leveraging data and contributing to 
 <!--
 **cybersamurai2410/cybersamurai2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: x
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
