@@ -67,6 +67,9 @@ Here are some ideas to get you started: x
 **[Threat Detector Application:](https://github.com/cybersamurai2410/Threat_Detector.git)**<br>
 ![threatdetect_demo1](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/043f1ea2-c4c7-4768-b6d3-24fd4443c348)
 
+**[Stock Analysis Report Generator using Multi-Agent AI System](https://github.com/cybersamurai2410/stock-analysis_multi-agents-AI)**<br>
+<img width="308" alt="img" src="https://github.com/user-attachments/assets/60e8e1c1-bde9-4e66-b6d0-d0d70e1b2b17">
+
 **[Time Series Trading using Deep Reinforcement Learning:](https://github.com/cybersamurai2410/RL_Trading.git)**<br>
 ![rl_trading](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/86aa8cec-c577-4307-bda4-1c900da8d0ff)
 
