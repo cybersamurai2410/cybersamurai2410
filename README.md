@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I am Aditya Satheesh and I am interested in building and deploying data-driven solutions with applied AI engineering and MLOps.
+I am Aditya Satheesh and I am passionate in building and deploying data-driven solutions with applied AI engineering and MLOps. 
+
+**Areas of Interest:**
+- Multi-Agent AI Systems
+- Knowledge Graphs with RAG
+- Fine-Tuning and Quantization of multimodal LLMs
 
 <!--
 **cybersamurai2410/cybersamurai2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
