@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Aditya Satheesh and I am interested in leveraging data and contributing to open-source projects with applied AI engineering and MLOps.
+I am Aditya Satheesh and I am interested in building and deploying data-driven solutions with applied AI engineering and MLOps.
 
 <!--
 **cybersamurai2410/cybersamurai2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,16 +33,14 @@ Here are some ideas to get you started: x
 ### Skills 💻
 
 - **Programming Languages:** Python, Java, JavaScript, C, C++, C#, Haskell, MATLAB, R, HTML5
-- **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch
+- **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch, JAX
 - **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost, Tableau 
-- **Database Management:** SQL, MongoDB, Pinecone
-- **Computer Vision:** OpenCV, Scikit-Image, YOLO
-- **Natural Language Processing:** NLTK, Spacy, Hugging Face Transformers, LangChain
+- **Database Management:** MySQL, MongoDB, Pinecone, Weavite, Neo4j, Redis
+- **Computer Vision & NLP (Generative AI):** OpenCV, Scikit-Image, YOLO, NLTK, Spacy, Hugging Face Transformers, LangChain
 - **Reinforcement Learning Tools:** OpenAI Gym, RLlib, Stable Baselines
 - **Version Control:** Git, GitHub
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, GitLab
-- **Cloud Computing:** Amazon Web Services, Microsoft Azure, Google Cloud
-- **Other:** REST API, Unit Testing, Algorithmic Complexity, Linux, Bash, JSON, XML, LaTeX
+- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, LangSmith, AgentOps, AWS SageMaker, Azure ML, Vertex AI
+- **Other:** Git, REST API, Unit Testing, Web Scraping, Fine-tuning, Quantisation, JSON, XML, LaTeX
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
