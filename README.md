@@ -36,7 +36,8 @@ Here are some ideas to get you started: x
 - **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch, JAX
 - **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost, Tableau 
 - **Database Management:** MySQL, MongoDB, Pinecone, Weavite, Neo4j, Redis
-- **Computer Vision & NLP (Generative AI):** OpenCV, Scikit-Image, YOLO, NLTK, Spacy, Hugging Face Transformers, LangChain
+- **Computer Vision & NLP (Generative AI):** OpenCV, Scikit-Image, YOLO, NLTK, SpaCy, Hugging Face Transformers, LangChain, Llama Index, OpenAI Assistants
+- **Agentic AI Tools:** LangGraph, CrewAI, AutoGen, Zapier 
 - **Reinforcement Learning Tools:** OpenAI Gym, RLlib, Stable Baselines
 - **Version Control:** Git, GitHub
 - **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, LangSmith, AgentOps, AWS SageMaker, Azure ML, Vertex AI
