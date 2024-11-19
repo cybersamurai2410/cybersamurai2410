@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I am *Aditya Satheesh* and I am passionate in building and deploying data-driven solutions with applied **AI Engineering** and **MLOps**. 
+I am *Aditya Satheesh* and I am a passionate software developer, building and deploying data-driven solutions with applied **AI Engineering** and **MLOps**. 
 
 **Areas of Interest:**
 - Multi-Agent AI Systems
