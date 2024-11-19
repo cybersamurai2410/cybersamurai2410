@@ -1,11 +1,12 @@
-### Hi there 👋
+### Welcome 👋
 
-I am Aditya Satheesh and I am passionate in building and deploying data-driven solutions with applied AI engineering and MLOps. 
+I am Aditya Satheesh and I am passionate in building and deploying data-driven solutions with applied **AI Engineering** and **MLOps**. 
 
 **Areas of Interest:**
 - Multi-Agent AI Systems
 - Knowledge Graphs with RAG
 - Fine-Tuning and Quantization of multimodal LLMs
+- Neural Network Architectures 
 
 <!--
 **cybersamurai2410/cybersamurai2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,56 +38,35 @@ Here are some ideas to get you started: x
 
 ### Skills 💻
 
-- **Programming Languages:** Python, Java, JavaScript, C, C++, C#, Haskell, MATLAB, R, HTML5
+- **Programming Languages:** Python, Java, JavaScript, C, C++, C#, Haskell, MATLAB, R
 - **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch, JAX
 - **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost, Tableau 
 - **Database Management:** MySQL, MongoDB, Pinecone, Weavite, Neo4j, Redis
-- **Computer Vision & NLP (Generative AI):** OpenCV, Scikit-Image, YOLO, NLTK, SpaCy, Hugging Face Transformers, LangChain, Llama Index, OpenAI Assistants
+- **Computer Vision & NLP (Generative AI):** OpenCV, Scikit-Image, NLTK, SpaCy, Hugging Face Transformers, LangChain, Llama Index, OpenAI Assistants
 - **Agentic AI Tools:** LangGraph, CrewAI, AutoGen, Zapier 
 - **Reinforcement Learning Tools:** OpenAI Gym, RLlib, Stable Baselines
-- **Version Control:** Git, GitHub
-- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, LangSmith, AgentOps, AWS SageMaker, Azure ML, Vertex AI
-- **Other:** Git, REST API, Unit Testing, Web Scraping, Fine-tuning, Quantisation, JSON, XML, LaTeX
+- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, LangSmith, AgentOps, AWS Bedrock, AWS SageMaker, Azure ML, Vertex AI
+- **Other:** Git, REST API, Unit Testing, Web Scraping, Fine-tuning, Quantization, JSON, XML, LaTeX
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
-### Platforms :octocat:
-
+### Platforms :octocat: 
+<!--Markdown badges via Shields.io-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-satheesh-6a2685291)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](mailto:aditya24102001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/cybersamurai2410)
 [![GitLab](https://img.shields.io/badge/GitLab-Profile-black?style=flat&logo=gitlab)](https://gitlab.com/cybersamurai2410)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/t0266882)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?style=flat&logo=huggingface)](https://huggingface.co/adityas2410)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/16278572/devx20)
 [![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@aditya24102001)
 
-## Project Showcase <br>
+## Project Categories 
 
-**[Pose Estimation using MediaPipe:](https://github.com/cybersamurai2410/PoseEstimation.git)**<br>
-![pose_demo](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/7528ba91-8bf4-49e6-9af0-b746ff4bbda7)
+### Generative AI:
+- **[Document Chatbot using RAG](https://github.com/cybersamurai2410/Document-Chatbot/tree/main)** - Application using LLMs with RAG (retrieval augemented generation) allowing users to interact with the chatbot UI retrieving context embeddings extracted from various sources including PDF, CSV, SQL, Websites and YouTube Videos. 
 
-**[YOLOR object detection and DeepSORT tracking inference:](https://github.com/cybersamurai2410/yolor-deepsort_object-tracking.git)**<br>
-![yolo_demo1](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/e3a1fc50-68b9-4a67-8fbe-1acc95da344f)
-![yolo_demo2](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/c9d67573-8330-4561-8f8a-66b6084839ba)
+### Computer Vision:
 
-**[Threat Detector Application:](https://github.com/cybersamurai2410/Threat_Detector.git)**<br>
-![threatdetect_demo1](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/043f1ea2-c4c7-4768-b6d3-24fd4443c348)
-
-**[Stock Analysis Report Generator using Multi-Agent AI System](https://github.com/cybersamurai2410/stock-analysis_multi-agents-AI)**<br>
-<img width="308" alt="img" src="https://github.com/user-attachments/assets/60e8e1c1-bde9-4e66-b6d0-d0d70e1b2b17">
-
-**[Time Series Trading using Deep Reinforcement Learning:](https://github.com/cybersamurai2410/RL_Trading.git)**<br>
-![rl_trading](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/86aa8cec-c577-4307-bda4-1c900da8d0ff)
-
-**[Image Caption Generator using Deep Learning:](https://github.com/cybersamurai2410/Image_Caption.git)**<br>
-<img width="571" alt="imgcaption" src="https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/e018c6a1-de8a-416d-a485-765d081888a8">
-
-**[Deep Convolutional Generative Adversarial Networks (DCGAN):](https://github.com/cybersamurai2410/GAN-image_gen.git)**<br>
-![dcgan](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/bfef8fe9-2e1a-45b6-8938-2918e29ea498)
-
-**[Pacman using Q-Learning reinforcement learning algorithm:](https://github.com/cybersamurai2410/MachineLearningCW.git)**<br>
-![pacman_demo](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/ce9762d9-6541-45eb-ad8d-d7cf92e8983b)
-
-**[TitTacToe using MiniMax search algorithm:](https://github.com/cybersamurai2410/Tic-Tac-Toe.git)**<br>
-![tictactoe_demo](https://github.com/cybersamurai2410/cybersamurai2410/assets/66138996/552b15ca-771a-44ce-8a41-8da837beb423)
+### Reinforcement Learning: 
 
