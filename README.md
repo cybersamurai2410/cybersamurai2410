@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I am Aditya Satheesh and I am passionate in building and deploying data-driven solutions with applied **AI Engineering** and **MLOps**. 
+I am *Aditya Satheesh* and I am passionate in building and deploying data-driven solutions with applied **AI Engineering** and **MLOps**. 
 
 **Areas of Interest:**
 - Multi-Agent AI Systems
@@ -33,8 +33,7 @@ Here are some ideas to get you started: x
 ### Certifications 🏆
 
   - Deep Learning Specialization (Coursera DeepLearning.AI)
-  - Google Advanced Data Analytics Professional Certificate
-  - Microsoft Azure AI Fundamentals 
+  - DeepLearning.AI: Multi AI Agent Systems (crewAI), AI Agents in LangGraph (LangChain), Knowledge Graphs for RAG (Neo4j), Open Source Models (Hugging Face), Evaluating and Debugging Generative AI (Weights & Biases), Quantization Fundamentals (Hugging Face), Building Multimodal and RAG (Weaviate)
 
 ### Skills 💻
 
@@ -53,7 +52,7 @@ Here are some ideas to get you started: x
 ### Platforms :octocat: 
 <!--Markdown badges via Shields.io-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-satheesh-6a2685291)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](mailto:aditya24102001@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](mailto:adityas.ai2410@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/cybersamurai2410)
 [![GitLab](https://img.shields.io/badge/GitLab-Profile-black?style=flat&logo=gitlab)](https://gitlab.com/cybersamurai2410)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/t0266882)
@@ -61,12 +60,27 @@ Here are some ideas to get you started: x
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/16278572/devx20)
 [![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@aditya24102001)
 
-## Project Categories 
+## AI/ML Project Categories 
 
 ### Generative AI:
-- **[Document Chatbot using RAG](https://github.com/cybersamurai2410/Document-Chatbot/tree/main)** - Application using LLMs with RAG (retrieval augemented generation) allowing users to interact with the chatbot UI retrieving context embeddings extracted from various sources including PDF, CSV, SQL, Websites and YouTube Videos. 
+- **[Document Chatbot using RAG](https://github.com/cybersamurai2410/Document-Chatbot/)** - Application using LLMs with RAG (retrieval augemented generation) allowing users to interact with the chatbot UI retrieving context embeddings extracted from various sources including PDF, CSV, SQL, Websites and YouTube Videos.
+- **[Stock Analysis Report Generator using Multi-Agents](https://github.com/cybersamurai2410/stock-analysis_multi-agents-AI)** - Generates stock analysis report from a company name using an LLM powered multi-agent system accessing various tools for extracting financial data and web scraping information. 
+- **[Fine-tuning LLMs using PEFT QLoRA for SQL](https://github.com/cybersamurai2410/sql-instruct-qlora-llm)** - Applied instruction tuning with 4bit quantization by using QLoRA on an open-source 11B parameter LLM for generating SQL queries accurately. 
 
-### Computer Vision:
+### Machine Learning:
+- **[Anomaly Detection in Financial Transactions using Autoencoders for Semi-Supervised Learning](https://github.com/cybersamurai2410/Transaction-Fraud-Detection)** - Detects fraudulent transactions from dimensionality reduced credit card data. Implemented autoencoders for anomaly detection and also for feature extraction in binary classification.
+- **[Sales Forcasting API using Regression](https://github.com/cybersamurai2410/Sales-Forecasting)** - Predict weekly sales on time series data of store chain, using regression models including Random Forest, XGBoost, LSTM and ARMIA for forecasting sales then deployed to the cloud as an API. 
+- **[Breast Cancer Prediction using Ensemble Learning](https://github.com/cybersamurai2410/BreastCancer_Prediction)** - Predict breast cancer using a stacking ensemble of classification algorithms including Random Forest, XGBoost and SVM to generate meta-features, which is then further trained using Logistic Regression as the meta-model. 
+- **[Recommendation System for E-commerce using Clustering ](https://github.com/cybersamurai2410/Product-Recommendation)** - Implemented unsupervised learning algorithms including KMeans and Agglomerative and Hierarchical clustering to group products based on similar features. 
 
-### Reinforcement Learning: 
+### Computer Vision & NLP:
+- **[Object Detection and Tracking for Weapon Possession](https://github.com/cybersamurai2410/Threat_Detector)** - Demonstrates computer vision for surveillance by finetuning YOLOR model and implementing DeepSORT algorithm to detect and track possession of weapons in real-time via video input stream. 
+- **[Image Caption Generator](https://github.com/cybersamurai2410/Image_Caption)** - Combined computer vision with natural language processing by implementing CNN and RNN to generate text captions for images.
+- **[Pose Estimation](https://github.com/cybersamurai2410/PoseEstimation)** - Real-time human pose detection using MediaPipe to track movements of the human body from video input.
+- **[Ecosystem Chatbot](https://github.com/cybersamurai2410/Ecosystem_Chatbot)** - Developed chatbot using knowledge about the topic of ecosystems to answer queries with various NLP and computer vision techniques such as cosine similarity, fuzzy logic and image recognition. 
+- **[Image Generation using GANs (Generative Adversarial Networks)](https://github.com/cybersamurai2410/GAN-image_gen)** - Training the adversarial network with the generator and discriminator to generate images. 
 
+### Reinforcement Learning & Search Algorithms: 
+- **[Time Series Trading using Deep Reinforcement Learning](https://github.com/cybersamurai2410/RL_Trading)** - Implemented ensemble model of DRL algorithms by aggregating the actions between DQN, PPO and A2C models with RNN integration to optimize stock trading decisions. 
+- **[Pacman using Q-Learning](https://github.com/cybersamurai2410/MachineLearningCW)** 
+- **[Tic-Tac-Toe using MiniMax Search](https://github.com/cybersamurai2410/Tic-Tac-Toe)** 
