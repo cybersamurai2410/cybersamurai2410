@@ -75,7 +75,7 @@ Here are some ideas to get you started: x
 
 ### Computer Vision & NLP:
 - **[Object Detection and Tracking for Weapon Possession](https://github.com/cybersamurai2410/Threat_Detector)** - Demonstrates computer vision for surveillance by finetuning YOLOR model and implementing DeepSORT algorithm to detect and track possession of weapons in real-time via video input stream. 
-- **[Image Caption Generator](https://github.com/cybersamurai2410/Image_Caption)** - Combined computer vision with natural language processing by implementing CNN and RNN to generate text captions for images.
+- **[Image Caption Generator & Vision-Language App](https://github.com/cybersamurai2410/Image_Caption)** - The neural network architecture combines CNNs and RNNs to output text captions based on input image features. Developed application using open-source models for vision-language tasks including image captioning, image-text matching and visual Q&A. 
 - **[Pose Estimation](https://github.com/cybersamurai2410/PoseEstimation)** - Real-time human pose detection using MediaPipe to track movements of the human body from video input.
 - **[Ecosystem Chatbot](https://github.com/cybersamurai2410/Ecosystem_Chatbot)** - Developed chatbot using knowledge about the topic of ecosystems to answer queries with various NLP and computer vision techniques such as cosine similarity, fuzzy logic and image recognition. 
 - **[Image Generation using GANs (Generative Adversarial Networks)](https://github.com/cybersamurai2410/GAN-image_gen)** - Training the adversarial network with the generator and discriminator to generate images. 
