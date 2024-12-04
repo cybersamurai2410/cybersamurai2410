@@ -80,7 +80,7 @@ Here are some ideas to get you started: x
 - **[Ecosystem Chatbot](https://github.com/cybersamurai2410/Ecosystem_Chatbot)** - Developed chatbot using knowledge about the topic of ecosystems to answer queries with various NLP and computer vision techniques such as cosine similarity, fuzzy logic and image recognition. 
 - **[Image Generation using GANs (Generative Adversarial Networks)](https://github.com/cybersamurai2410/GAN-image_gen)** - Training the adversarial network with the generator and discriminator to generate images.
 - **[Zero-Shot Classification from Image & Audio](https://github.com/cybersamurai2410/Zero-Shot_Classification)** - Developed app using open-source models that classifies image and audio inputs from set of unseen labels without requiring prior training.  
-- **[Speech Recognition]()** - Developed app using open-source models that takes speech inputs as audio and converts into text output.
+- **[Speech Recognition](https://github.com/cybersamurai2410/Speech_Recognition)** - Developed app using open-source models that takes speech inputs as audio and output text as well as converting text to speech.
 - **[Image Segmentation]()** - Developed app using open-source models that segement objects within an image.  
 
 ### Reinforcement Learning & Search Algorithms: 
