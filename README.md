@@ -83,7 +83,7 @@ Here are some ideas to get you started: x
 - **[Image Generation using GANs (Generative Adversarial Networks)](https://github.com/cybersamurai2410/GAN-image_gen)** - Training the adversarial network with the generator and discriminator to generate images.
 - **[Zero-Shot Classification from Image & Audio](https://github.com/cybersamurai2410/Zero-Shot_Classification)** - Developed app using open-source models that classifies image and audio inputs from set of unseen labels without requiring prior training.  
 - **[Speech Recognition](https://github.com/cybersamurai2410/Speech_Recognition)** - Developed app using open-source models that takes speech inputs as audio and output text as well as converting text to speech.
-- **[Image Segmentation](https://github.com/cybersamurai2410/Image_Segmentation)** - Developed app using open-source models that segement objects and predict depth estimation within an image.  
+- **[Image Segmentation](https://github.com/cybersamurai2410/Image_Segmentation)** - Developed app using open-source models that segment objects from any data point and predict depth estimation within an image.
 
 ### Reinforcement Learning & Search Algorithms: 
 - **[Time Series Trading using Deep Reinforcement Learning](https://github.com/cybersamurai2410/RL_Trading)** - Implemented ensemble model of DRL algorithms by aggregating the actions between DQN, PPO and A2C models with RNN integration to optimize stock trading decisions. 
