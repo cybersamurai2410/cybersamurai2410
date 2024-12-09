@@ -69,7 +69,7 @@ Here are some ideas to get you started: x
 - **[Fine-tuning LLMs using PEFT QLoRA for SQL](https://github.com/cybersamurai2410/sql-instruct-qlora-llm)** - Applied instruction tuning with 4bit quantization by using QLoRA on an open-source 11B parameter LLM for generating SQL queries accurately.
 - **[ReAct Agent](https://github.com/cybersamurai2410/ReAct_Agent)** - Implemented ReAct (React + Act) agentic architecture allowing an LLM to demonstrate Chain-of-Thought reasoning with access to tools for a given prompt. 
 
-### Machine Learning:
+### Machine Learning & Data Science:
 - **[Anomaly Detection in Financial Transactions using Autoencoders for Semi-Supervised Learning](https://github.com/cybersamurai2410/Transaction-Fraud-Detection)** - Detects fraudulent transactions from dimensionality reduced credit card data. Implemented autoencoders for anomaly detection and also for feature extraction in binary classification.
 - **[Sales Forcasting API using Regression](https://github.com/cybersamurai2410/Sales-Forecasting)** - Predict weekly sales on time series data of store chain, using regression models including Random Forest, XGBoost, LSTM and ARMIA for forecasting sales then deployed to the cloud as an API. 
 - **[Breast Cancer Prediction using Ensemble Learning](https://github.com/cybersamurai2410/BreastCancer_Prediction)** - Predict breast cancer using a stacking ensemble of classification algorithms including Random Forest, XGBoost and SVM to generate meta-features, which is then further trained using Logistic Regression as the meta-model. 
