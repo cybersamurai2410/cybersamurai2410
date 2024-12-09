@@ -66,7 +66,7 @@ Here are some ideas to get you started: x
 - **[Document Chatbot using RAG](https://github.com/cybersamurai2410/Document-Chatbot/)** - Application using LLMs with RAG (retrieval augemented generation) allowing users to interact with the chatbot UI retrieving context embeddings extracted from various sources including PDF, CSV, SQL, Websites and YouTube Videos.
 - **[Stock Analysis Report Generator using Multi-Agents](https://github.com/cybersamurai2410/stock-analysis_multi-agents-AI)** - Generates stock analysis report from a company name using an LLM powered multi-agent system accessing various tools for extracting financial data and web scraping information. 
 - **[Fine-tuning LLMs using PEFT QLoRA for SQL](https://github.com/cybersamurai2410/sql-instruct-qlora-llm)** - Applied instruction tuning with 4bit quantization by using QLoRA on an open-source 11B parameter LLM for generating SQL queries accurately.
-- **[ReAct Agent]**() - Implemented agentic architecture allowing an LLM to demonstrate Chain-of-Thought reasoning with access to tools for a given prompt. 
+- **[ReAct Agent]()** - Implemented agentic architecture allowing an LLM to demonstrate Chain-of-Thought reasoning with access to tools for a given prompt. 
 
 ### Machine Learning:
 - **[Anomaly Detection in Financial Transactions using Autoencoders for Semi-Supervised Learning](https://github.com/cybersamurai2410/Transaction-Fraud-Detection)** - Detects fraudulent transactions from dimensionality reduced credit card data. Implemented autoencoders for anomaly detection and also for feature extraction in binary classification.
