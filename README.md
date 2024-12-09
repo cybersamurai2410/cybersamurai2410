@@ -6,7 +6,8 @@ I am *Aditya Satheesh* and I am a passionate software developer, building and de
 - Multi-Agent AI Systems
 - Knowledge Graphs with RAG
 - Fine-Tuning and Quantization of multimodal LLMs
-- Neural Network Architectures 
+- Computer Vision Video Analytics 
+- Neural Network Architectures
 
 <!--
 **cybersamurai2410/cybersamurai2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
