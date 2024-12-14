@@ -88,5 +88,5 @@ Here are some ideas to get you started: x
 
 ### Reinforcement Learning & Search Algorithms: 
 - **[Time Series Trading using Deep Reinforcement Learning](https://github.com/cybersamurai2410/RL_Trading)** - Implemented ensemble model of DRL algorithms by aggregating the actions between DQN, PPO and A2C models with RNN integration to optimize stock trading decisions. 
-- **[Pacman using Q-Learning](https://github.com/cybersamurai2410/MachineLearningCW)** - Q-Learning RL algorithm implemented to play Pacman by allowing an agent to navigate the maze and optimize strategy through trial and error to maximize rewards by balancing exploration and exploitation.
-- **[Tic-Tac-Toe using MiniMax Search](https://github.com/cybersamurai2410/Tic-Tac-Toe)** - Minimax search algorithm implemented to play Tic-Tac-Toe by exhaustively evaluating all possible moves to determine the optimal action assuming both players play to maximize their chances of winning.
+- **[Pacman Game using Q-Learning](https://github.com/cybersamurai2410/Pacman_QLearning)** - Q-Learning RL algorithm implemented to play Pacman by allowing an agent to navigate the maze and optimize strategy through trial and error to maximize rewards by balancing exploration and exploitation.
+- **[Tic-Tac-Toe Game using MiniMax Search](https://github.com/cybersamurai2410/Tic-Tac-Toe)** - Minimax search algorithm implemented to play Tic-Tac-Toe by exhaustively evaluating all possible moves to determine the optimal action assuming both players play to maximize their chances of winning.
