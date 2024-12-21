@@ -64,8 +64,8 @@ Here are some ideas to get you started: x
 ## AI/ML Project Categories 
 
 ### Generative AI:
-- **[Graph Analysis using Multi-Agent Collaboration with LLMs]()** - Reimplemented research paper of multi-agent systems optimized for understanding data within graph representations.
-- **[Small Language Model Reasoning using Multi-Agent Graph Distillation]()** - Reimplemented research paper using structured knowledge distillation to improve reasoning of small language models from integrating multi-agent interaction graph with LLMs.  
+- **[Graph Analysis using Multi-Agent Collaboration with LLMs](https://github.com/cybersamurai2410/graph_analysis_multi-agents/)** - Reimplemented research paper of multi-agent systems optimized for understanding data within graph representations using LLMs.
+- **[Small Language Model Reasoning using Multi-Agent Graph Distillation](https://github.com/cybersamurai2410/multi-agent_graph_distillation/)** - Reimplemented research paper using structured knowledge distillation to improve reasoning of small language models from integrating multi-agent interaction graph with LLMs.  
 - **[Document Chatbot using RAG](https://github.com/cybersamurai2410/Document-Chatbot/)** - Application using LLMs with RAG (retrieval augemented generation) allowing users to interact with the chatbot UI retrieving context embeddings extracted from various sources including PDF, CSV, SQL, Websites and YouTube Videos.
 - **[Stock Analysis Report Generator using Multi-Agents](https://github.com/cybersamurai2410/stock-analysis_multi-agents-AI)** - Generates stock analysis report from a company name using an LLM powered multi-agent system accessing various tools for extracting financial data and web scraping information. 
 - **[Fine-tuning LLMs using PEFT QLoRA for SQL](https://github.com/cybersamurai2410/sql-instruct-qlora-llm)** - Applied instruction tuning with 4bit quantization by using QLoRA on an open-source 11B parameter LLM for generating SQL queries accurately.
