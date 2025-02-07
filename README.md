@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-I am *Aditya Satheesh* and I am a passionate software developer, building and deploying data-driven solutions with applied **AI Engineering** and **MLOps**. 
+I am *Aditya Satheesh* and I am a software developer, building and deploying data-driven solutions with applied **AI Engineering** and **MLOps**. 
 
 **Areas of Interest:**
 - Multi-Agent AI Systems
@@ -34,19 +34,19 @@ Here are some ideas to get you started: x
 ### Certifications 🏆
 
   - Deep Learning Specialization (Coursera DeepLearning.AI)
-  - DeepLearning.AI: Multi AI Agent Systems (crewAI), AI Agents in LangGraph (LangChain), Knowledge Graphs for RAG (Neo4j), Open Source Models (Hugging Face), Evaluating and Debugging Generative AI (Weights & Biases), Quantization Fundamentals (Hugging Face), Building Multimodal and RAG (Weaviate)
+  - DeepLearning.AI: Multi AI Agent Systems (crewAI), AI Agents in LangGraph (LangChain), Knowledge Graphs for RAG (Neo4j), Open Source Models (Hugging Face), Evaluating and Debugging Generative AI (Weights & Biases), Quantization Fundamentals (Hugging Face), Building Multimodal and RAG (Weaviate), Serverless Agentic Workflow (AWS Bedrock)
 
 ### Skills 💻
 
 - **Programming Languages:** Python, Java, JavaScript, C, C++, C#, Haskell, MATLAB, R
-- **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch, JAX
+- **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch, JAX, Flax
 - **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost, Tableau 
-- **Database Management:** MySQL, MongoDB, Pinecone, Weavite, Neo4j, Redis
+- **Database Management:** Oracle SQL, MySQL, PostgreSQL, MongoDB, Pinecone, Weavite, Neo4j, Redis
 - **Computer Vision & NLP (Generative AI):** OpenCV, Scikit-Image, NLTK, SpaCy, Hugging Face Transformers, LangChain, Llama Index, OpenAI Assistants
 - **Agentic AI Tools:** LangGraph, CrewAI, AutoGen, Zapier 
 - **Reinforcement Learning Tools:** OpenAI Gym, RLlib, Stable Baselines
-- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, LangSmith, AgentOps, AWS Bedrock, AWS SageMaker, Azure ML, Vertex AI
-- **Other:** Git, REST API, Unit Testing, Web Scraping, Fine-tuning, Quantization, JSON, XML, LaTeX
+- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, Databricks, Palantir Foundry, LangSmith, AgentOps, AWS Bedrock, AWS SageMaker, Azure ML, Vertex AI
+- **Other:** Git, REST API, Unit Testing, Web Scraping, Fine-Tuning, Quantization, JSON, XML, YAML, LaTeX
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
@@ -77,7 +77,7 @@ Here are some ideas to get you started: x
 ### Machine Learning & Data Science:
 - **[Anomaly Detection in Financial Transactions using Autoencoders for Semi-Supervised Learning](https://github.com/cybersamurai2410/Transaction-Fraud-Detection)** - Detects fraudulent transactions from dimensionality reduced credit card data. Implemented autoencoders for anomaly detection and also for feature extraction in binary classification.
 - **[Sales Forcasting API using Regression with MLOps](https://github.com/cybersamurai2410/Sales-Forecasting)** - Predict weekly sales on time series data of store chain, using regression models including Random Forest, XGBoost, LSTM and ARMIA for forecasting sales. Deployed these models as an API running on Docker container through AWS elastic container service to be accessed with a public URL. Applied MLOps using MLflow for logging metrics of model versions and GitHub Actions for CI/CD to automate the process of executing unit tests, containerization and deployment to cloud. 
-- **[Breast Cancer Prediction using Ensemble Learning and Image Recognition](https://github.com/cybersamurai2410/BreastCancer_Prediction)** - Predict breast cancer using a stacking ensemble of classification algorithms including Random Forest, XGBoost and SVM to generate meta-features, which is then further trained using Logistic Regression as the meta-model. Implemented CNN for image classification from detecting breast cancer features. 
+- **[Breast Cancer Prediction using Ensemble Learning and Image Recognition](https://github.com/cybersamurai2410/BreastCancer_Prediction)** - Predict breast cancer using a stacking ensemble of classification algorithms (Random Forest, XGBoost, SVM) to generate meta-features, which is then further trained using Logistic Regression as the meta-model and also image recognition using CNN. These models are integrated with OpenAI Assistants API using custom function calling schema to perform predictions based on natural language.
 - **[Recommendation System for E-commerce using Clustering ](https://github.com/cybersamurai2410/Product-Recommendation)** - Implemented unsupervised learning algorithms including KMeans and Agglomerative Hierarchical clustering to group products based on similar features.
 
 ### Computer Vision & NLP:
