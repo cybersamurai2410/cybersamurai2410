@@ -38,14 +38,14 @@ Here are some ideas to get you started: x
 
 ### Skills 💻
 
-- **Programming Languages:** Python, Java, JavaScript, C, C++, C#, Haskell, MATLAB, R
+- **Programming Languages:** Python, Java, JavaScript, C, C++, C#, Haskell, MATLAB, R, React
 - **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch, JAX, Flax
 - **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost, Tableau 
 - **Database Management:** Oracle SQL, MySQL, PostgreSQL, MongoDB, Pinecone, Weavite, Neo4j, Redis
 - **Computer Vision & NLP (Generative AI):** OpenCV, Scikit-Image, NLTK, SpaCy, Hugging Face Transformers, LangChain, Llama Index, OpenAI Assistants
 - **Agentic AI Tools:** LangGraph, CrewAI, AutoGen, Zapier 
 - **Reinforcement Learning Tools:** OpenAI Gym, RLlib, Stable Baselines
-- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, Databricks, Palantir Foundry, LangSmith, AgentOps, AWS Bedrock, AWS SageMaker, Azure ML, Vertex AI
+- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, Databricks, Palantir Foundry & AIP, LangSmith, AgentOps, AWS Bedrock, AWS SageMaker, Azure ML, Vertex AI
 - **Other:** Git, REST API, Unit Testing, Web Scraping, Fine-Tuning, Quantization, JSON, XML, YAML, LaTeX
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
