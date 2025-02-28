@@ -1,11 +1,11 @@
 ### Welcome 👋
 
-I am *Aditya Satheesh* and I am a software developer, building and deploying data-driven solutions with applied **AI Engineering** and **MLOps**. 
+I am *Aditya Satheesh* and I am a full-stack software developer, specializing in building and deploying data-driven solutions with applied **AI Engineering** and **MLOps**. 
 
 **Areas of Interest:**
 - Multi-Agent AI Systems
 - Knowledge Graphs with RAG
-- Fine-Tuning and Quantization of multimodal LLMs
+- Fine-Tuning and Quantization of Multimodal LLMs
 - Computer Vision Video Analytics 
 - Neural Network Architectures
 
