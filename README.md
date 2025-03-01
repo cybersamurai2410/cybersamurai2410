@@ -79,7 +79,7 @@ Here are some ideas to get you started: x
 - **[Fine-Tuning VLM with LoRA for E-commerce Product Descriptions](https://github.com/cybersamurai2410/vlm-fine-tuned-lora)** - Applied supervised fine-tuning with LoRA adapters for multimodal VLM to generate e-commerce product descriptions from images. 
 - **[Fine-Tuning Mixture-of-Experts (MoE) using MixLoRA for Language Style Transfer](https://github.com/cybersamurai2410/moe-mixlora)** - Fine-tuned MoE using MixLoRA targetting only the expert layers to convert regular English into different styles. 
 - **[Fine-Tuning Mamba State-Space Model (SSM) for Named Entity Recognition](https://github.com/cybersamurai2410/mamba-fine-tuned-ner)** - Fine-tuned Mamba model targeting the mixer layers for generating NER tagging from text. 
-- **[Multimodal Mixture-of-Experts Model from Fine-Tuned Vision Transformers](https://github.com/cybersamurai2410/moe-vit)** - Developed multimodal MoE model from multiple fine-tuned vision transformer models for generating detailed image captions.
+- **[Multimodal Mixture-of-Experts Model from Fine-Tuned VLM](https://github.com/cybersamurai2410/moe-vit)** - Developed multimodal MoE model from multiple fine-tuned VLMs for generating detailed image captions.
   
 <!--
 https://huggingface.co/blog/fine-tune-vit
