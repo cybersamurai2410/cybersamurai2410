@@ -77,9 +77,9 @@ Here are some ideas to get you started: x
 **LLM Fine-Tuning:**
 - **[Fine-Tuning LLMs using PEFT QLoRA for SQL](https://github.com/cybersamurai2410/sql-instruct-qlora-llm)** - Applied supervised fine-tuning with 4bit quantization by using QLoRA on an open-source 11B parameter LLM for generating SQL queries accurately.
 - **[Fine-Tuning VLM with LoRA for E-commerce Product Descriptions](https://github.com/cybersamurai2410/vlm-fine-tuned-lora)** - Applied supervised fine-tuning with LoRA adapters for multimodal VLM to generate e-commerce product descriptions from images. 
-- **[Fine-Tuning Mixture-of-Experts (MoE) using MixLoRA for Language Style Transfer](https://github.com/cybersamurai2410/moe-mixlora)** - Fine-tuned MoE using MixLoRA targetting only the expert layers to convert regular English into different styles. 
+- **[Fine-Tuning Mixture-of-Experts (MoE) using MixLoRA for Language Style Transfer](https://github.com/cybersamurai2410/moe-mixlora)** - Fine-tuned MoE using MixLoRA targeting the expert layers to convert regular English into different styles. 
 - **[Fine-Tuning Mamba State-Space Model (SSM) for Named Entity Recognition](https://github.com/cybersamurai2410/mamba-fine-tuned-ner)** - Fine-tuned Mamba model targeting the mixer layers for generating NER tagging from text. 
-- **[Multimodal Mixture-of-Experts Model from Fine-Tuned VLM](https://github.com/cybersamurai2410/moe-vit)** - Developed multimodal MoE model from multiple fine-tuned VLMs for generating detailed image captions.
+- **[Multimodal Mixture-of-Experts Model from Fine-Tuned VLM](https://github.com/cybersamurai2410/moe-vit)** - Developed multimodal MoE model from multiple open-source fine-tuned VLMs for generating detailed image captions by dynamically selecting specialized experts for diverse image-text understanding tasks. 
   
 <!--
 https://huggingface.co/blog/fine-tune-vit
