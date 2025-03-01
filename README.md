@@ -1,9 +1,9 @@
-### Welcome 👋
+# Personal Portfolio ✨
 
-I am *Aditya Satheesh* and I am a full-stack software developer, specializing in building and deploying data-driven solutions with applied **AI Engineering** and **MLOps**. 
+Full-stack software developer, specializing in building and deploying data-driven solutions with applied **AI Engineering** and **MLOps**. 
 
 **Areas of Interest:**
-- Multi-Agent AI Systems
+- Multi-Agent AI Systems and Agentic Workflow Orchestration
 - Knowledge Graphs with RAG
 - Fine-Tuning and Quantization of Multimodal LLMs
 - Computer Vision Video Analytics 
@@ -69,9 +69,10 @@ Here are some ideas to get you started: x
 - **[Document Chatbot using Agentic RAG](https://github.com/cybersamurai2410/Document-Chatbot/)** - Application using LLMs with RAG (retrieval augemented generation) allowing users to interact with the chatbot UI retrieving context embeddings using vector databases extracted from various sources including PDF, CSV, SQL, Websites and YouTube Videos.
 - **[Stock Analysis Report Generator using Hierarchical Multi-Agent AI](https://github.com/cybersamurai2410/stock-analysis_multi-agents-AI)** - Generates stock analysis report from a company name using an LLM powered multi-agent system accessing various tools for extracting financial data and web scraping information.
 - **[Structured Report with Deep Research and Podcast Generation using Agentic AI](https://github.com/cybersamurai2410/structured-report-generation)** - Structured report generation using LLM powered agentic AI for any given topic by automatically planning then conducting research and writing sections simultaneously with concurrent processing. Integrated TTS API using the report to generate podcasts in audio format.  
-- **[Fine-tuning LLMs using PEFT QLoRA for SQL](https://github.com/cybersamurai2410/sql-instruct-qlora-llm)** - Applied instruction tuning with 4bit quantization by using QLoRA on an open-source 11B parameter LLM for generating SQL queries accurately.
-- **[ReAct Agent](https://github.com/cybersamurai2410/ReAct_Agent)** - Implemented ReAct (Reasoning + Action) agentic architecture allowing an LLM to demonstrate Chain-of-Thought reasoning with access to tools for a given prompt.
-- **[Adaptive RAG](https://github.com/cybersamurai2410/adaptive-rag)** - Implemented Adaptive RAG by combining query analysis and active/self-correction RAG. The query analysis routs the LLM call to respond without RAG using web search or invoke single-shot and iterative RAG with self-correction.
+- **[Fine-Tuning LLMs using PEFT QLoRA for SQL](https://github.com/cybersamurai2410/sql-instruct-qlora-llm)** - Applied instruction tuning with 4bit quantization by using QLoRA on an open-source 11B parameter LLM for generating SQL queries accurately.
+- **[Fine-Tuning VLM with LoRA for E-commerce Product Descriptions](https://github.com/cybersamurai2410/vlm-fine-tuned-lora)** - 
+- **[ReAct Agent Architecture](https://github.com/cybersamurai2410/ReAct_Agent)** - Implemented ReAct (Reasoning + Action) agentic architecture allowing an LLM to demonstrate Chain-of-Thought reasoning with access to tools for a given prompt.
+- **[Adaptive RAG Pipeline](https://github.com/cybersamurai2410/adaptive-rag)** - Implemented Adaptive RAG by combining query analysis and active/self-correction RAG. The query analysis routs the LLM call to respond without RAG using web search or invoke single-shot and iterative RAG with self-correction.
 - **[Knowledge Graphs with GraphRAG](https://github.com/cybersamurai2410/Knowledge-Graph_RAG)** - Automatically build knowledge graphs from text documents with embeddings stored in a Neo4j graph database for RAG with LLMs to retrieve context for question-answering based on the relationships between the data by generating Cypher queries.
 - **[Serverless Agentic Workflow for Customer Service](https://github.com/cybersamurai2410/CustomerService-BedrockAgents)** - Implemented agentic workflow for customer service using the serverless AWS Bedrock framework. 
 
