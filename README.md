@@ -1,6 +1,6 @@
 # Personal Portfolio ✨
 
-Full-stack software developer, specializing in building and deploying data-driven solutions with applied **AI Engineering** and **MLOps**. 
+Software engineer specializing in building and deploying data-driven solutions in **AI/ML** with **GenAI** and **MLOps**. 
 
 **Areas of Interest:**
 - Multi-Agent AI Systems and Agentic Workflow Orchestration
@@ -31,10 +31,12 @@ Here are some ideas to get you started: x
   - MSc Advanced Computing
   - BSc Hons Computer Science
 
+<!--
 ### Certifications 🏆
 
   - Deep Learning Specialization (Coursera DeepLearning.AI)
   - DeepLearning.AI: Multi AI Agent Systems (crewAI), AI Agents in LangGraph (LangChain), Knowledge Graphs for RAG (Neo4j), Open Source Models (Hugging Face), Evaluating and Debugging Generative AI (Weights & Biases), Quantization Fundamentals (Hugging Face), Building Multimodal and RAG (Weaviate), Serverless Agentic Workflow (AWS Bedrock)
+-->
 
 ### Skills 💻
 
