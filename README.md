@@ -5,7 +5,7 @@ Software engineer specializing in building and deploying data-driven solutions i
 **Areas of Interest:**
 - Multi-Agent AI Systems and Agentic Workflow Orchestration
 - Knowledge Graphs with RAG
-- Fine-Tuning and Quantization of Multimodal LLMs
+- Fine-Tuning with Quantization and Distillation of Multimodal LLMs
 - Computer Vision Video Analytics 
 - Neural Network Architectures
 
