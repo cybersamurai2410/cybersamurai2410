@@ -4,6 +4,7 @@ Software engineer specializing in building and deploying data-driven solutions i
 
 **Areas of Interest:**
 - Multi-Agent AI Systems and Agentic Workflow Orchestration
+- Unstructured Data ETL
 - Knowledge Graphs with RAG
 - Fine-Tuning with Quantization and Distillation of Multimodal LLMs
 - Computer Vision Video Analytics 
@@ -47,7 +48,7 @@ Here are some ideas to get you started: x
 - **Computer Vision & NLP (Generative AI Agents):** OpenCV, Hugging Face Transformers, LangChain, Llama Index, OpenAI Assistants, LangGraph, CrewAI, AutoGen, Zapier 
 - **Reinforcement Learning Tools:** OpenAI Gym, Stable Baselines, Ray RLlib
 - **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, Databricks, Palantir Foundry & AIP, LangSmith, AgentOps, AWS, Microsoft Azure
-- **Other:** Git, Bash, REST API, GraphQL, JSON, XML, YAML, TOML, Unit Testing, Web Scraping, Fine-Tuning, Quantization, Knowledge Distillation   
+- **Other:** Git, Bash, REST API, GraphQL, JSON, XML, YAML, TOML, Unit Testing, Web Scraping, Fine-Tuning, Quantization, Knowledge Distillation, Unstructured Data ETL   
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
