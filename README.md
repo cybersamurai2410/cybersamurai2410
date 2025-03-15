@@ -41,14 +41,13 @@ Here are some ideas to get you started: x
 
 ### Skills 💻
 
-- **Programming Languages:** Python, Java, JavaScript, C, C++, C#, ,MATLAB, R, React, TypeScript
-- **Machine Learning Frameworks:** TensorFlow, Keras, PyTorch, JAX, Flax
-- **Data Science:** Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, NetworkX, Tableau 
+- **Programming Languages:** Python, Java, JavaScript, C, C++, C#, MATLAB, R, React, TypeScript, Next.js, Tailwind CSS
+- **Machine Learning/Data Science Frameworks:** TensorFlow, Keras, PyTorch, JAX, Flax, Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, NetworkX, Tableau 
 - **Database:** Oracle, MySQL, PostgreSQL, MongoDB, Pinecone, Weavite, Neo4j, Redis
-- **Computer Vision & NLP (Generative AI Agents):** OpenCV, Hugging Face Transformers, LangChain, Llama Index, OpenAI Assistants, LangGraph, CrewAI, AutoGen, Zapier 
+- **Computer Vision & NLP (Generative AI Agents):** OpenCV, Hugging Face Transformers, LangChain, Llama Index, LangGraph, CrewAI, AutoGen, OpenAI Agents SDK, Unstructured, Zapier 
 - **Reinforcement Learning Tools:** OpenAI Gym, Stable Baselines, Ray RLlib
-- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, Databricks, Palantir Foundry & AIP, Unstructured, LangSmith, AgentOps, AWS, Microsoft Azure
-- **Other:** Git, Bash, REST API, GraphQL, JSON, XML, YAML, TOML, Unit Testing, Web Scraping, Fine-Tuning, Quantization, Knowledge Distillation   
+- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, Databricks, Palantir Foundry & AIP, Unstructured, LangSmith, AgentOps, Vercel, AWS, Microsoft Azure
+- **Other:** Git, Bash, REST API, GraphQL, JSON, XML, YAML, TOML, Unit Testing, Web Scraping, Fine-Tuning, Quantization, Knowledge Distillation, Model Context Protocol   
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
@@ -79,17 +78,17 @@ Here are some ideas to get you started: x
 **LLM Fine-Tuning:**
 - **[Fine-Tuning LLMs using PEFT QLoRA for SQL](https://github.com/cybersamurai2410/sql-instruct-qlora-llm)** - Applied supervised fine-tuning with 4bit quantization by using QLoRA on an open-source 11B parameter LLM for generating SQL queries accurately.
 - **[Fine-Tuning VLM with LoRA for E-commerce Product Descriptions](https://github.com/cybersamurai2410/vlm-fine-tuned-lora)** - Applied supervised fine-tuning with LoRA adapters for multimodal VLM to generate e-commerce product descriptions from images. 
-- **[Fine-Tuning Mixture-of-Experts (MoE) using MixLoRA for Language Style Transfer](https://github.com/cybersamurai2410/moe-mixlora)** - Fine-tuned MoE using MixLoRA targeting the expert layers to convert regular English into different styles. 
+- **[Fine-Tuning Mixture-of-Experts (MoE) using MixLoRA for STEM](https://github.com/cybersamurai2410/moe-mixlora)** - Implemented parallel fine-tuning of MoE using MixLoRA targeting the expert layers specialized within STEM domains. 
 - **[Fine-Tuning Mamba State-Space Model (SSM) for Named Entity Recognition](https://github.com/cybersamurai2410/mamba-fine-tuned-ner)** - Fine-tuned Mamba model targeting the mixer layers for generating NER tagging from text. 
 - **[Multimodal Mixture-of-Experts Model from Fine-Tuned VLM](https://github.com/cybersamurai2410/moe-vlm)** - Developed multimodal MoE model from multiple open-source fine-tuned VLMs for generating detailed image captions by dynamically selecting specialized experts for diverse image-text understanding tasks. 
   
 <!--
-https://huggingface.co/blog/fine-tune-vit
-https://www.philschmid.de/fine-tune-multimodal-llms-with-trl
-https://gautam75.medium.com/fine-tuning-vision-language-models-using-lora-b640c9af8b3c
-https://medium.com/@prakharsaxena11111/finetuning-mixtral-7bx8-6071b0ebf114
-https://huggingface.co/blog/mjbuehler/phi-3-vision-cephalo-moe 
-https://huggingface.co/blog/mlabonne/frankenmoe
+https://huggingface.co/blog/fine-tune-vit - Fine-Tuning Vision Transformer (ViT) for Image Classification
+https://www.philschmid.de/fine-tune-multimodal-llms-with-trl - Fine-Tuning VLM with LoRA for E-commerce Product Descriptions
+https://gautam75.medium.com/fine-tuning-vision-language-models-using-lora-b640c9af8b3c - Fine-Tuning VLM 
+https://medium.com/@prakharsaxena11111/finetuning-mixtral-7bx8-6071b0ebf114 - Fine-Tuning MoE
+https://huggingface.co/blog/mjbuehler/phi-3-vision-cephalo-moe - Multimodal Mixture-of-Experts Model from Fine-Tuned VLM
+https://huggingface.co/blog/mlabonne/frankenmoe - Create MoE with MergeKit
 -->
   
 **Research Papers:**
