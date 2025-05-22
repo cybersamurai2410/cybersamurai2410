@@ -7,8 +7,10 @@ Software engineer specializing in building and deploying data-driven solutions i
 - Unstructured Data ETL
 - Knowledge Graphs with RAG
 - Fine-Tuning with Quantization and Distillation of Multimodal LLMs
-- Computer Vision Video Analytics 
+- Computer Vision Video Analytics
+- Physics Simulation with Reinforcement Learning
 - Neural Network Architectures
+- Teleoperated Robotics with VR/AR
 
 <!--
 **cybersamurai2410/cybersamurai2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
