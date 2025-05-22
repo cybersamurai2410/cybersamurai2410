@@ -29,27 +29,24 @@ Here are some ideas to get you started: x
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybersamurai2410)](https://github.com/anuraghazra/github-readme-stats)-->
 
-### Education 📖 
+## Apps💡
+### **PodMap AI**<br>
+AI SaaS video analytics platform using multimodal LLM to transform context from YouTube videos or local video/audio files into summaries and interactive 3D/2D data visualizations such as knowledge graphs with timestamps. **[Launch App](https://podmapai.vercel.app/)**
+
+## Education 📖 
 
   - MSc Advanced Computing
   - BSc Hons Computer Science
 
-<!--
-### Certifications 🏆
-
-  - Deep Learning Specialization (Coursera DeepLearning.AI)
-  - DeepLearning.AI: Multi AI Agent Systems (crewAI), AI Agents in LangGraph (LangChain), Knowledge Graphs for RAG (Neo4j), Open Source Models (Hugging Face), Evaluating and Debugging Generative AI (Weights & Biases), Quantization Fundamentals (Hugging Face), Building Multimodal and RAG (Weaviate), Serverless Agentic Workflow (AWS Bedrock)
--->
-
-### Skills 💻
+## Skills 💻
 
 - **Programming Languages:** Python, Java, JavaScript, C, C++, C#, MATLAB, R, React, TypeScript, Next.js, Tailwind CSS
 - **Machine Learning/Data Science Frameworks:** TensorFlow, Keras, PyTorch, JAX, Flax, Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, NetworkX, Tableau 
 - **Database:** Oracle, MySQL, PostgreSQL, MongoDB, Pinecone, Weavite, Neo4j, Redis
 - **Computer Vision & NLP (Generative AI Agents):** OpenCV, Hugging Face Transformers, LangChain, Llama Index, LangGraph, CrewAI, AutoGen, OpenAI Agents SDK, Unstructured, Zapier 
 - **Reinforcement Learning Tools:** OpenAI Gym, Stable Baselines, Ray RLlib
-- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, Databricks, Palantir Foundry & AIP, Unstructured, LangSmith, AgentOps, Vercel, AWS, Microsoft Azure
-- **Other:** Git, Bash, REST, GraphQL, JSON, XML, YAML, TOML, Unit Testing, Web Scraping, Fine-Tuning, Quantization, Knowledge Distillation, Model Context Protocol   
+- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, Databricks, Palantir Foundry & AIP, Unstructured, LangSmith, AgentOps, Vercel, AWS (Amazon Web Services), Microsoft Azure, GCP (Goole Cloud Platform)
+- **Other:** Git, Bash, REST, GraphQL, JSON, XML, YAML, TOML, Unit Testing, Web Scraping, Fine-Tuning, Quantization, Knowledge Distillation, MCP (Model Context Protocol), A2A (Agent-to-Agent Protocol)   
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
