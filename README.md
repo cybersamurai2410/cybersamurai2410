@@ -31,7 +31,7 @@ Here are some ideas to get you started: x
 
 ## Apps💡
 ### **PodMap AI**<br>
-AI SaaS video analytics platform using multimodal LLM to transform context from YouTube videos or local video/audio files into summaries and interactive 3D/2D data visualizations such as knowledge graphs with timestamps. **[Launch App](https://podmapai.vercel.app/)**
+AI SaaS video analytics platform using multimodal LLM to transform context from YouTube videos or local video/audio files into summaries and interactive 3D/2D data visualizations such as knowledge graphs with timestamps. **[Launch App](https://podmapai.vercel.app/)** | **[Watch Demo](https://www.youtube.com/watch?v=0jeftvA8N6k)** | **[Company Page](https://www.linkedin.com/company/107399160/)**
 
 ## Education 📖 
 
