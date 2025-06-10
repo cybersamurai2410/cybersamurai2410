@@ -65,7 +65,7 @@ AI SaaS video analytics platform using multimodal LLM to transform context from 
 
 ### Generative AI:
 
-**Agentic Workflows & RAG Pipelines:**
+**Agentic Architectures & RAG Pipelines:**
 - **[Chatbot using Agentic RAG](https://github.com/cybersamurai2410/Document-Chatbot/)** - Application using LLMs with RAG allowing users to interact with the chatbot UI; retrieving context embeddings using vector databases extracted from external data sources including PDF, CSV, SQL, Websites and YouTube Videos.
 - **[Stock Analysis Report Generator using Hierarchical Multi-Agent AI](https://github.com/cybersamurai2410/stock-analysis_multi-agents-AI)** - Generates stock analysis report from a company name using an LLM powered multi-agent system accessing various tools for extracting financial data and web scraping information.
 - **[Structured Report with Deep Research and Podcast Generation using Agentic AI](https://github.com/cybersamurai2410/structured-report-generation)** - Structured report generation with UI and API development, using LLM powered agentic AI for any given topic by automatically planning then conducting iterative research with reflection and writing sections simultaneously with concurrent processing. Integrated TTS API using the report to generate podcasts in audio format.
