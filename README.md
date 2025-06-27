@@ -113,6 +113,6 @@ https://huggingface.co/blog/mlabonne/frankenmoe - Create MoE with MergeKit
 - **[Image Segmentation](https://github.com/cybersamurai2410/Image_Segmentation)** - Developed app using open-source models that segment objects from any data point and predict depth estimation within an image.
 
 ### Reinforcement Learning & Search Algorithms: 
-- **[Time Series Trading using Deep Reinforcement Learning](https://github.com/cybersamurai2410/RL_Trading)** - Implemented ensemble model of DRL algorithms by aggregating the actions between DQN, PPO and A2C models with RNN integration to optimize stock trading decisions. 
+- **[Time Series Trading using Deep Reinforcement Learning with Recurrent Neural Networks](https://github.com/cybersamurai2410/RL_Trading)** - Implemented ensemble model of DRL algorithms by aggregating the actions between DQN, PPO and A2C models with RNN integration to optimize stock trading decisions in both discrete and continuous environments.  
 - **[Pacman Game using Q-Learning](https://github.com/cybersamurai2410/Pacman_QLearning)** - Q-Learning RL algorithm implemented to play Pacman by allowing an agent to navigate the maze and optimize strategy through trial and error to maximize rewards by balancing exploration and exploitation.
 - **[Tic-Tac-Toe Game using MiniMax Search](https://github.com/cybersamurai2410/Tic-Tac-Toe)** - Minimax search algorithm implemented to play Tic-Tac-Toe by exhaustively evaluating all possible moves to determine the optimal action assuming both players play to maximize their chances of winning.
