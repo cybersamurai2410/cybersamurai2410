@@ -41,12 +41,12 @@ AI SaaS video analytics platform using multimodal LLM to transform context from 
 ## Skills 💻
 
 - **Programming Languages:** Python, Java, JavaScript, C, C++, C#, MATLAB, R, React, TypeScript, Next.js, Tailwind CSS
-- **Machine Learning/Data Science Frameworks:** TensorFlow, Keras, PyTorch, JAX, Flax, Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, NetworkX, Tableau 
-- **Database:** Oracle, MySQL, PostgreSQL, MongoDB, Pinecone, Weavite, Neo4j, Redis
-- **Computer Vision & NLP (Generative AI Agents):** OpenCV, Hugging Face Transformers, LangChain, Llama Index, LangGraph, CrewAI, AutoGen, OpenAI Agents SDK, Unstructured, Zapier 
+- **Machine Learning/Data Science Frameworks:** TensorFlow, Keras, PyTorch, JAX, Flax, Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Tableau 
+- **Database:** Oracle, MySQL, PostgreSQL, MongoDB, Pinecone, Weavite, Qdrant, Neo4j, Redis
+- **Computer Vision & NLP (Generative AI Agents):** OpenCV, Hugging Face Transformers, LangChain, Llama Index, LangGraph, CrewAI, AutoGen, SmolAgents, OpenAI Agents SDK, Google ADK, Vercel AI SDK
 - **Reinforcement Learning Tools:** OpenAI Gym, Stable Baselines, Ray RLlib
-- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, Databricks, Palantir Foundry & AIP, Unstructured, LangSmith, AgentOps, Vercel, AWS (Amazon Web Services), Microsoft Azure, GCP (Goole Cloud Platform)
-- **Other:** Git, Bash, REST, GraphQL, JSON, XML, YAML, TOML, Unit Testing, Web Scraping, Fine-Tuning, Quantization, Knowledge Distillation, MCP (Model Context Protocol), A2A (Agent-to-Agent Protocol)   
+- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, Databricks, Palantir Foundry & AIP, LangSmith, AgentOps, Vercel, AWS (Amazon Web Services), Microsoft Azure, GCP (Goole Cloud Platform)
+- **Other:** Git, Bash, REST, GraphQL, JSON, XML, YAML, TOML, MCP (Model Context Protocol), A2A (Agent-to-Agent Protocol)   
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 
