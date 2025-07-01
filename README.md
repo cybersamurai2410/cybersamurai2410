@@ -30,7 +30,7 @@ Here are some ideas to get you started: x
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybersamurai2410)](https://github.com/anuraghazra/github-readme-stats)-->
 
 ## Apps💡
-### **PodMap AI**<br>
+### **PodMapAI**<br>
 AI SaaS video analytics platform using multimodal LLM to transform context from YouTube videos or local video/audio files into summaries and interactive 3D/2D data visualizations such as knowledge graphs with timestamps. **[Launch App](https://podmapai.vercel.app/)** | **[Watch Demo](https://www.youtube.com/watch?v=0jeftvA8N6k)** | **[Company Page](https://www.linkedin.com/company/107399160/)**
 
 ## Education 📖 
