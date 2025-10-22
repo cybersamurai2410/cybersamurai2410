@@ -44,8 +44,9 @@ AI SaaS video analytics platform using multimodal LLM to transform context from 
 - **Machine Learning/Data Science Frameworks:** TensorFlow, Keras, PyTorch, JAX, Flax, Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Tableau 
 - **Database:** Oracle, MySQL, PostgreSQL, MongoDB, Pinecone, Weavite, Qdrant, Neo4j, Redis
 - **Computer Vision & NLP (Generative AI Agents):** OpenCV, Hugging Face Transformers, LangChain, Llama Index, LangGraph, CrewAI, AutoGen, SmolAgents, OpenAI Agents SDK, Google ADK, Vercel AI SDK
+- **AI Automation Tools:** Zapier, n8n, Make
 - **Reinforcement Learning Tools:** OpenAI Gym, Stable Baselines, Ray RLlib
-- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, Databricks, Palantir Foundry & AIP, LangSmith, AgentOps, Vercel, AWS (Amazon Web Services), Microsoft Azure, GCP (Goole Cloud Platform)
+- **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, Databricks, Palantir Foundry & AIP, LangSmith, AgentOps, Vercel, Cloudflare, AWS (Amazon Web Services), Microsoft Azure, GCP (Google Cloud Platform)
 - **Other:** Git, Bash, REST, GraphQL, JSON, XML, YAML, TOML, MCP (Model Context Protocol), A2A (Agent-to-Agent Protocol)   
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
