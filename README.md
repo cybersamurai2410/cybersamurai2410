@@ -29,9 +29,12 @@ Here are some ideas to get you started: x
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybersamurai2410)](https://github.com/anuraghazra/github-readme-stats)-->
 
-## Apps💡
+## SaaS Applications💡
 ### **PodMapAI**<br>
-AI SaaS video analytics platform using multimodal LLM to transform context from YouTube videos or local video/audio files into summaries and interactive 3D/2D data visualizations such as knowledge graphs with timestamps. **[Launch App](https://podmapai.vercel.app/)** | **[Watch Demo](https://www.youtube.com/watch?v=0jeftvA8N6k)** | **[Company Page](https://www.linkedin.com/company/107399160/)**
+AI SaaS video analytics platform using multimodal LLM to transform context from YouTube videos or local video/audio files into summaries and interactive 3D/2D data visualizations such as knowledge graphs with timestamps. **[Launch App](www.podmapai.com)** | **[Company Page](https://www.linkedin.com/company/107399160/)**
+
+### **Technomancer AI Solutions (TAS)**<br>
+Online store for custom AI automation workflows with live analytics dashboards across business operations including sales, marketing and finance. **[Launch App](tas.tech)** | **[Company Page](https://www.linkedin.com/company/107393386/)**
 
 ## Education 📖 
 
