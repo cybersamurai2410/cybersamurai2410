@@ -1,16 +1,6 @@
 # Personal Portfolio ✨
 
-Software engineer specializing in building and deploying data-driven solutions in **AI/ML** with **GenAI** and **MLOps**. 
-
-**Areas of Interest:**
-- Multi-Agent AI Systems and Agentic Workflow Orchestration
-- Unstructured Data ETL
-- Knowledge Graphs with RAG
-- Fine-Tuning with Quantization and Distillation of Multimodal LLMs
-- Computer Vision Video Analytics
-- Physics Simulation with Reinforcement Learning
-- Neural Network Architectures
-- Teleoperated Robotics with VR/AR
+Software engineer and founder with specialized skills in applied **AI/ML** with **GenAI** and **MLOps**. Practical experience implementing **end-to-end machine learning pipelines**, **retrieval augmented generation** with **knowledge graphs** and **vector databases**, **multi-agent AI workflows** and **fine-tuning multimodal LLMs**. Proficient in deploying AI/ML models as **scalable APIs** using **container orchestration** and **cloud infrastructure**. Continuously learning and staying updated with the latest AI research to deliver innovative solutions
 
 <!--
 **cybersamurai2410/cybersamurai2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,10 +21,10 @@ Here are some ideas to get you started: x
 
 ## SaaS Applications💡
 ### **PodMapAI**<br>
-AI SaaS video analytics platform using multimodal LLM to transform context from YouTube videos or local video/audio files into summaries and interactive 3D/2D data visualizations such as knowledge graphs with timestamps. **[Launch App](www.podmapai.com)** | **[Company Page](https://www.linkedin.com/company/107399160/)**
+AI SaaS video analytics platform using multimodal LLMs to transform podcasts from YouTube or local video/audio files into summaries and interactive data visualizations including 3D/2D knowledge graphs. **[Launch App](https://www.podmapai.com/)** | **[Company Page](https://www.linkedin.com/company/107399160/)**
 
 ### **Technomancer AI Solutions (TAS)**<br>
-Online store for custom AI automation workflows with live analytics dashboards across business operations including sales, marketing and finance. **[Launch App](tas.tech)** | **[Company Page](https://www.linkedin.com/company/107393386/)**
+Online marketplace selling n8n automation workflows and AI agents with analytics dashboards for SME and business professionals. Independent consultancy brand working directly with B2B clients to deliver custom agentic AI solutions within sales, marketing and finance. **[Launch App](https://technomancer-ai.solutions/)** | **[Company Page](https://www.linkedin.com/company/107393386/)**
 
 ## Education 📖 
 
@@ -70,14 +60,14 @@ Online store for custom AI automation workflows with live analytics dashboards a
 ### Generative AI:
 
 **Agentic Architectures & RAG Pipelines:**
-- **[Chatbot using Agentic RAG with MCP](https://github.com/cybersamurai2410/Document-Chatbot/)** - Application using LLMs with RAG allowing users to interact with the chatbot UI; retrieving context embeddings using vector databases extracted from external data sources including PDF, CSV, SQL, Websites and YouTube Videos. Integrated MCP server to allow client LLM access to tools and resources.  
+- **[Chatbot using Agentic RAG for Documents and Databases](https://github.com/cybersamurai2410/Document-Chatbot/)** - Application using LLMs with RAG allowing users to interact with the chatbot UI; retrieving context embeddings using vector databases extracted from external data sources including PDF, CSV, SQL, Websites and YouTube Videos. Integrated MCP server to allow client LLM access to tools and resources.
+- **[ReAct AI Agent with MCP for Workflow Automation ](https://github.com/cybersamurai2410/ReAct_Agent)** - AI agent following ReAct (Reasoning + Action) architecture with CLI interface connected to MCP server for tool calling (email, calendar, social media, web search etc.) to automate daily workflows and schedule tasks from user prompts. 
 - **[Stock Analysis Report Generator using Hierarchical Multi-Agent AI](https://github.com/cybersamurai2410/stock-analysis_multi-agents-AI)** - Generates stock analysis report from a company name using an LLM powered multi-agent system accessing various tools for extracting financial data and web scraping information.
-- **[Agentic Knowledge Graph Construction for Supply Chain Analysis](https://github.com/cybersamurai2410/agentic-knowledge-graph-construction/)** - Multi-agent system for constructing knowledge graphs as long-term memory from structured and unstructured data for representing supply chain manufacturing networks for Q&A using GraphRAG.
+- **[Agentic Knowledge Graph Construction for Supply Chain Analysis](https://github.com/cybersamurai2410/agentic-knowledge-graph-construction/)** - Multi-agent system for constructing knowledge graphs as long-term memory from structured and unstructured data for representing supply chain manufacturing networks for responding to queries using GraphRAG.
 - **[Structured Report with Deep Research and Podcast Generation using Agentic AI](https://github.com/cybersamurai2410/structured-report-generation)** - Structured report generation with UI and API development, using LLM powered agentic AI for any given topic by automatically planning then conducting iterative research with reflection and writing sections simultaneously with concurrent processing. Integrated TTS API using the report to generate podcasts in audio format.
 - **[Adaptive Multimodal RAG with Query Analysis and Self-Reflection for Research Papers](https://github.com/cybersamurai2410/adaptive-rag)** - Developed web application with front-end UI and back-end API using advanced RAG architecture that combines query analysis and self-reflection, which routes prompts to invoke LLM calls with vector embedding search from multimodal data or web search as context to generate responses.
 - **[Computer Operator using Parallel Multi-Agent AI ](https://github.com/cybersamurai2410/computer-operator-agents/)** - Implemented multi-agent AI system using LLMs to autonomously control a web browser within a virtual machine. Enabled agents to interpret goals, plan actions and execute sequences in a remote desktop by simulating human interaction.
 - **[Deep Agentic Architecture](https://github.com/cybersamurai2410/deep-agents-architecture)** - Agentic AI architecture combining planning tool, sub agents, access to file system and detailed prompt.
-- **[ReAct Agent Architecture](https://github.com/cybersamurai2410/ReAct_Agent)** - Implemented ReAct (Reasoning + Action) agentic architecture allowing an LLM to demonstrate Chain-of-Thought reasoning with access to tools for a given prompt.
 - **[Knowledge Graphs with GraphRAG for SEC 10K Filings](https://github.com/cybersamurai2410/Knowledge-Graph_RAG)** - Automatically construct knowledge graphs from text documents from web scraping SEC filings then storing vector embeddings in Neo4j graph database for hybrid RAG with LLMs to retrieve context for question-answering based on the relationships between the data by generating Cypher queries. 
 - **[Serverless Agentic Workflow with RAG for Customer Service](https://github.com/cybersamurai2410/CustomerService-BedrockAgents)** - Implemented customer service agentic workflow via AWS Boto3 SDK using foundational model via AWS Bedrock and integrated tools via AWS Lambda functions with safety guardrails and knowledge bases for context retrieval.
 - **[Graph Analysis using Multi-Agent Collaboration with LLMs](https://github.com/cybersamurai2410/graph_analysis_multi-agents/)** - Reimplemented research paper of multi-agent systems optimized for understanding data within graph representations using LLMs.
