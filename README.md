@@ -1,6 +1,6 @@
 # Personal Portfolio ✨
 
-Software engineer and founder with specialized skills in applied **AI/ML** with **GenAI** and **MLOps**. Practical experience implementing **end-to-end machine learning pipelines**, **retrieval augmented generation** with **knowledge graphs** and **vector databases**, **multi-agent AI workflows** and **fine-tuning multimodal LLMs**. Proficient in deploying AI/ML models as **scalable APIs** using **container orchestration** and **cloud infrastructure**. Continuously learning and staying updated with the latest AI research to deliver innovative solutions
+AI engineer with specialized skills in **GenAI** and **MLOps**. Practical experience implementing **end-to-end machine learning pipelines**, **retrieval augmented generation** with **knowledge graphs** and **vector databases**, **multi-agent AI workflows** and **fine-tuning multimodal LLMs**. Proficient in deploying AI/ML models as **scalable APIs** using **container orchestration** and **cloud infrastructure**. Continuously learning and staying updated with the latest AI research to deliver innovative solutions
 
 <!--
 **cybersamurai2410/cybersamurai2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,11 +33,11 @@ Online marketplace selling n8n automation workflows and AI agents with analytics
 
 ## Skills 💻
 
-- **Programming Languages:** Python, Java, JavaScript, C, C++, C#, MATLAB, R, React, TypeScript, Next.js, Tailwind CSS
-- **Machine Learning/Data Science Frameworks:** TensorFlow, Keras, PyTorch, JAX, Flax, Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Tableau 
+- **Programming Languages/Frameworks:** Python, Java, JavaScript, TypeScript, C, C++, C#, MATLAB, R, React, Next.js
+- **Machine Learning/Data Science Frameworks:** Pandas, NumPy, TensorFlow, Keras, PyTorch, JAX, Flax, Scikit-Learn, XGBoost, Ray 
 - **Database:** Oracle, MySQL, PostgreSQL, MongoDB, Pinecone, Weavite, Qdrant, Neo4j, Redis
 - **Computer Vision & NLP (Generative AI Agents):** OpenCV, Hugging Face Transformers, LangChain, Llama Index, LangGraph, CrewAI, AutoGen, SmolAgents, OpenAI Agents SDK, Google ADK, Vercel AI SDK
-- **AI Automation Tools:** Zapier, n8n, Make
+- **AI Automation Tools:** Zapier, n8n, Make, Claude Code, Codex
 - **Reinforcement Learning Tools:** OpenAI Gym, Stable Baselines, Ray RLlib
 - **DevOps/MLOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, Databricks, Palantir Foundry & AIP, LangSmith, AgentOps, Vercel, Cloudflare, AWS (Amazon Web Services), Microsoft Azure, GCP (Google Cloud Platform)
 - **Other:** Git, Bash, REST, GraphQL, JSON, XML, YAML, TOML, MCP (Model Context Protocol), A2A (Agent-to-Agent Protocol)   
