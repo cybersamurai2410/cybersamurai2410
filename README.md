@@ -1,6 +1,6 @@
 # Personal Portfolio ✨
 
-AI engineer with specialized skills in **GenAI** and **MLOps**. Practical experience implementing **end-to-end machine learning pipelines**, **retrieval augmented generation** with **knowledge graphs** and **vector databases**, **multi-agent AI workflows** and **fine-tuning multimodal LLMs**. Proficient in deploying AI/ML models as **scalable APIs** using **container orchestration** and **cloud infrastructure**. Continuously learning and staying updated with the latest AI research to deliver innovative solutions
+AI engineer with specialized skills in **GenAI** and **MLOps**. Practical experience implementing **end-to-end machine learning pipelines**, **retrieval augmented generation** with **knowledge graphs** and **vector databases**, **multi-agent AI workflows** and **fine-tuning multimodal LLMs**. Proficient in deploying AI/ML models as **scalable APIs** using **container orchestration** and **cloud infrastructure**. Continuously learning and staying updated with the latest AI research to deliver innovative solutions.
 
 <!--
 **cybersamurai2410/cybersamurai2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
