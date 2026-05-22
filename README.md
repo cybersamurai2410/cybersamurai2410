@@ -24,7 +24,7 @@ Here are some ideas to get you started: x
 AI SaaS video analytics platform using multimodal LLMs to transform podcasts from YouTube or local video/audio files into summaries and interactive data visualizations including 3D/2D knowledge graphs. **[Launch App](https://www.podmapai.com/)** | **[Company Page](https://www.linkedin.com/company/107399160/)**
 
 ### **Technomancer AI Solutions (TAS)**<br>
-Online marketplace selling n8n automation workflows and AI agents with analytics dashboards for SME and business professionals. Independent consultancy brand working directly with B2B clients to deliver custom agentic AI solutions within sales, marketing and finance. **[Launch App](https://technomancer-ai.solutions/)** | **[Company Page](https://www.linkedin.com/company/107393386/)**
+Multi-tenant platform for workflow automations and AI agents with live analytics dashboards for SME and business professionals across sales, marketing, finance and operations.  Independent consultancy working directly with B2B clients to deliver custom agentic AI solutions. **[Launch App](https://technomancer-ai.solutions/)** | **[Company Page](https://www.linkedin.com/company/107393386/)**
 
 ## Education 📖 
 
