@@ -36,8 +36,8 @@ Multi-tenant platform for workflow automations and AI agents with live analytics
 - **Programming Languages/Frameworks:** Python, Java, JavaScript, TypeScript, C, C++, React, Next.js
 - **Machine Learning/Data Science Frameworks:** Pandas, NumPy, TensorFlow, Keras, PyTorch, JAX, Flax, Scikit-Learn, XGBoost, Ray Ecosystem
 - **Database:**  MySQL, PostgreSQL, Pinecone, Weaviate, Qdrant, Neo4j, Redis
-- **Computer Vision & NLP (Generative AI Agents):** OpenCV, Hugging Face Transformers, LangChain, LlamaIndex, LangGraph, CrewAI, SmolAgents, OpenAI Agents SDK, Claude Agents SDK, Google ADK
-- **AI Automation Tools:** Zapier, n8n, Make, Claude Code, Codex
+- **Computer Vision & NLP (Generative AI Agents):** OpenCV, Hugging Face Transformers, LangChain, LlamaIndex, DSPy, LangGraph, CrewAI, Smolagents, OpenAI Agents SDK, Claude Agents SDK, Google ADK
+- **AI Automation Tools:** Zapier, n8n, Make, Claude Code, Codex, OpenClaw
 - **Reinforcement Learning Tools:** OpenAI Gym, Stable Baselines, Ray RLlib
 - **DevOps/MLOps/LLMOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, LangSmith, AgentOps, Vercel, Cloudflare, AWS (Amazon Web Services), Microsoft Azure, GCP (Google Cloud Platform)
 - **Other:** Git, Bash, REST, GraphQL, JSON, XML, YAML, TOML, MCP (Model Context Protocol), A2A (Agent-to-Agent Protocol)   
