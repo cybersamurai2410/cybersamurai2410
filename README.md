@@ -36,7 +36,7 @@ Event-driven AI automation platform with live analytics dashboards for SMEs acro
 - **Programming Languages/Frameworks:** Python, C/C++, Java, JavaScript, TypeScript, React, Next.js
 - **Machine Learning/Data Science Frameworks:** Pandas, NumPy, TensorFlow, Keras, PyTorch, JAX, Flax, Scikit-Learn, XGBoost, Ray Ecosystem
 - **Database:**  MySQL, PostgreSQL, Pinecone, Weaviate, Qdrant, Neo4j, Redis
-- **Computer Vision & NLP (Generative AI Agents):** OpenCV, Hugging Face Transformers, LangChain, LlamaIndex, DSPy, LangGraph, CrewAI, Smolagents, OpenAI Agents SDK, Claude Agents SDK, Google ADK
+- **Computer Vision & NLP (Generative AI Agents):** OpenCV, Hugging Face Transformers, LangChain, LlamaIndex, DSPy, LangGraph, CrewAI, Smolagents, OpenAI Agents SDK, Claude Agent SDK, Google ADK
 - **AI Automation Tools:** Zapier, n8n, Claude Code, Codex, OpenClaw, Hermes Agent
 - **Reinforcement Learning Tools:** OpenAI Gym, Stable Baselines, Ray RLlib
 - **DevOps/MLOps/LLMOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, LangSmith, AgentOps, Vercel, Cloudflare, AWS (Amazon Web Services), Microsoft Azure, GCP (Google Cloud Platform)
