@@ -1,6 +1,6 @@
 # Personal Portfolio ✨
 
-AI engineer with specialized skills in **GenAI (harness engineering + spec-driven development)** and **MLOps**. Practical experience implementing **end-to-end machine learning pipelines**, **retrieval augmented generation** with **knowledge graphs** and **vector databases**, **multi-agent AI workflows** and **fine-tuning multimodal LLMs**. Proficient in deploying AI/ML solutions as scalable and secure APIs using **container orchestration** and **cloud infrastructure**.
+AI Engineer with expertise in **building production-grade agentic AI applications with governance** including **harness engineering** and **spec-driven development** to automate software engineering workflows. Practical experience developing **machine learning pipelines**, **retrieval augmented generation (RAG)** with **knowledge graphs** and **vector databases**, **multi-agent AI systems** and **multimodal LLM fine-tuning**. Proficient in **deploying AI/ML solutions** as **scalable and secure API services** using **container orchestration** and **cloud infrastructure**.
 
 <!--
 **cybersamurai2410/cybersamurai2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +24,7 @@ Here are some ideas to get you started: x
 AI SaaS video analytics platform using multimodal LLMs to transform podcasts from YouTube or local video/audio files into summaries and interactive data visualizations including 3D/2D knowledge graphs. **[Launch App](https://www.podmapai.com/)** | **[Company Page](https://www.linkedin.com/company/107399160/)**
 
 ### **Technomancer AI Solutions (TAS)**<br>
-Multi-tenant platform for workflow automations and AI agents with live analytics dashboards for SME and business professionals across sales, marketing, finance and operations.  Independent consultancy working directly with B2B clients to deliver custom agentic AI solutions. **[Launch App](https://technomancer-ai.solutions/)** | **[Company Page](https://www.linkedin.com/company/107393386/)**
+Event-driven AI automation platform with live analytics dashboards for SMEs across sales, marketing, finance and operations. Consultancy working directly with B2B clients to deliver custom workflow automations as containerized services deployed either on managed or self-hosted infrastructure. **[Launch App](https://technomancer-ai.solutions/)** | **[Company Page](https://www.linkedin.com/company/107393386/)**
 
 ## Education 📖 
 
