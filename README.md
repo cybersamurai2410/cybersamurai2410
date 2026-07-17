@@ -33,11 +33,11 @@ Event-driven AI automation platform with live analytics dashboards for SMEs acro
 
 ## Skills 💻
 
-- **Programming Languages/Frameworks:** Python, Java, JavaScript, TypeScript, C, C++, React, Next.js
+- **Programming Languages/Frameworks:** Python, C/C++, Java, JavaScript, TypeScript, React, Next.js
 - **Machine Learning/Data Science Frameworks:** Pandas, NumPy, TensorFlow, Keras, PyTorch, JAX, Flax, Scikit-Learn, XGBoost, Ray Ecosystem
 - **Database:**  MySQL, PostgreSQL, Pinecone, Weaviate, Qdrant, Neo4j, Redis
 - **Computer Vision & NLP (Generative AI Agents):** OpenCV, Hugging Face Transformers, LangChain, LlamaIndex, DSPy, LangGraph, CrewAI, Smolagents, OpenAI Agents SDK, Claude Agents SDK, Google ADK
-- **AI Automation Tools:** Zapier, n8n, Make, Claude Code, Codex, OpenClaw
+- **AI Automation Tools:** Zapier, n8n, Claude Code, Codex, OpenClaw, Hermes Agent
 - **Reinforcement Learning Tools:** OpenAI Gym, Stable Baselines, Ray RLlib
 - **DevOps/MLOps/LLMOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, LangSmith, AgentOps, Vercel, Cloudflare, AWS (Amazon Web Services), Microsoft Azure, GCP (Google Cloud Platform)
 - **Other:** Git, Bash, REST, GraphQL, JSON, XML, YAML, TOML, MCP (Model Context Protocol), A2A (Agent-to-Agent Protocol)   
@@ -67,7 +67,7 @@ Event-driven AI automation platform with live analytics dashboards for SMEs acro
 - **[Structured Report with Deep Research and Podcast Generation using Agentic AI](https://github.com/cybersamurai2410/structured-report-generation)** - Structured report generation with UI and API development, using LLM powered agentic AI for any given topic by automatically planning then conducting iterative research with reflection and writing sections simultaneously with concurrent processing. Integrated TTS API using the report to generate podcasts in audio format.
 - **[Adaptive Multimodal RAG with Query Analysis and Self-Reflection for Research Papers](https://github.com/cybersamurai2410/adaptive-rag)** - Developed web application with front-end UI and back-end API using advanced RAG architecture that combines query analysis and self-reflection, which routes prompts to invoke LLM calls with vector embedding search from multimodal data or web search as context to generate responses.
 - **[Computer Operator using Parallel Multi-Agent AI ](https://github.com/cybersamurai2410/computer-operator-agents/)** - Implemented multi-agent AI system using LLMs to autonomously control a web browser within a virtual machine. Enabled agents to interpret goals, plan actions and execute sequences in a remote desktop by simulating human interaction.
-- **[Deep Agentic Architecture](https://github.com/cybersamurai2410/deep-agents-architecture)** - Agentic AI architecture combining planning tool, sub agents, access to file system and detailed prompt.
+- **[Deep Agentic Architecture for Harness Engineering](https://github.com/cybersamurai2410/deep-agents-architecture)** - Agentic AI architecture for harness engineering by combining planning, tool calling, subagents, filesystem and context management.
 - **[Knowledge Graphs with GraphRAG for SEC 10K Filings](https://github.com/cybersamurai2410/Knowledge-Graph_RAG)** - Automatically construct knowledge graphs from text documents from web scraping SEC filings then storing vector embeddings in Neo4j graph database for hybrid RAG with LLMs to retrieve context for question-answering based on the relationships between the data by generating Cypher queries. 
 - **[Graph Analysis using Multi-Agent Collaboration with LLMs](https://github.com/cybersamurai2410/graph_analysis_multi-agents/)** - Reimplemented research paper of multi-agent systems optimized for understanding data within graph representations using LLMs.
 - **[Small Language Model Reasoning using Multi-Agent Graph Distillation](https://github.com/cybersamurai2410/multi-agent_graph_distillation/)** - Reimplemented research paper using structured knowledge distillation to improve reasoning of small language models from integrating multi-agent interaction graph with LLMs. 
