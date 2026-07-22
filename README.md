@@ -2,29 +2,16 @@
 
 AI Engineer with expertise in **building production-grade agentic AI applications with governance** including **harness engineering** and **spec-driven development** to automate software engineering workflows. Practical experience developing **machine learning pipelines**, **retrieval augmented generation (RAG)** with **knowledge graphs** and **vector databases**, **multi-agent AI systems** and **multimodal LLM fine-tuning**. Proficient in **deploying AI/ML solutions** as **scalable and secure API services** using **container orchestration** and **cloud infrastructure**.
 
-<!--
-**cybersamurai2410/cybersamurai2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started: x
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybersamurai2410)](https://github.com/anuraghazra/github-readme-stats)-->
-
 ## SaaS Applications💡
-### **PodMapAI**<br>
-AI SaaS video analytics platform using multimodal LLMs to transform podcasts from YouTube or local video/audio files into summaries and interactive data visualizations including 3D/2D knowledge graphs. **[Launch App](https://www.podmapai.com/)** | **[Company Page](https://www.linkedin.com/company/107399160/)**
+### **PodMapAI** 
+**Website:** <https://www.podmapai.com/>
 
-### **Technomancer AI Solutions (TAS)**<br>
-Event-driven AI automation platform with live analytics dashboards for SMEs across sales, marketing, finance and operations. Consultancy working directly with B2B clients to deliver custom workflow automations as containerized services deployed either on managed or self-hosted infrastructure. **[Launch App](https://technomancer-ai.solutions/)** | **[Company Page](https://www.linkedin.com/company/107393386/)**
+AI SaaS video analytics platform using multimodal LLMs to transform podcasts from YouTube or local video/audio files into summaries and interactive data visualizations including 3D/2D knowledge graphs. 
+
+### **Technomancer AI Solutions (TAS)**
+**Website:** <https://technomancer-ai.solutions/>
+
+Event-driven AI automation platform with live analytics dashboards for SMEs across sales, marketing, finance and operations. Consultancy working directly with B2B clients to deliver custom workflow automations as containerized services deployed either on managed or self-hosted infrastructure. 
 
 ## Education 📖 
 
@@ -42,18 +29,17 @@ Event-driven AI automation platform with live analytics dashboards for SMEs acro
 - **DevOps/MLOps/LLMOps & Cloud:** Docker, Kubernetes, GitLab, GitHub Actions, Weights & Biases, MLflow, LangSmith, AgentOps, Vercel, Cloudflare, AWS (Amazon Web Services), Microsoft Azure, GCP (Google Cloud Platform)
 - **Other:** Git, Bash, REST, GraphQL, JSON, XML, YAML, TOML, MCP (Model Context Protocol), A2A (Agent-to-Agent Protocol)   
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybersamurai2410&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
+### Platforms 
+- [LinkedIn](https://www.linkedin.com/in/aditya-satheesh-6a2685291)
+- [Hugging Face](https://huggingface.co/adityas2410)
+- [Kaggle](https://www.kaggle.com/t0266882)
 
-### Platforms :octocat: 
+<!--:octocat:-->
 <!--Markdown badges via Shields.io-->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-satheesh-6a2685291)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red?style=flat&logo=gmail)](mailto:adityas.ai2410@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/cybersamurai2410)
-[![GitLab](https://img.shields.io/badge/GitLab-Profile-black?style=flat&logo=gitlab)](https://gitlab.com/cybersamurai2410)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/t0266882)
+<!--[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/cybersamurai2410)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Profile-yellow?style=flat&logo=huggingface)](https://huggingface.co/adityas2410)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=flat&logo=stackoverflow)](https://stackoverflow.com/users/16278572/devx20)
-[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@aditya24102001)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?style=flat&logo=kaggle)](https://www.kaggle.com/t0266882)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-satheesh-6a2685291)-->
 
 ## AI/ML Project Categories 
 
