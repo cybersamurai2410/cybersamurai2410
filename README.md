@@ -1,8 +1,8 @@
-# Personal Portfolio ✨
+# Personal Portfolio 
 
 AI Engineer with expertise in **building production-grade agentic AI applications with governance** including **harness engineering** and **spec-driven development** to automate software engineering workflows. Practical experience developing **machine learning pipelines**, **retrieval augmented generation (RAG)** with **knowledge graphs** and **vector databases**, **multi-agent AI systems** and **multimodal LLM fine-tuning**. Proficient in **deploying AI/ML solutions** as **scalable and secure API services** using **container orchestration** and **cloud infrastructure**.
 
-## SaaS Applications💡
+## SaaS Applications
 ### **PodMapAI** 
 **Website:** <https://www.podmapai.com/>
 
@@ -13,7 +13,7 @@ AI SaaS video analytics platform using multimodal LLMs to transform podcasts fro
 
 Event-driven AI automation platform with live analytics dashboards for SMEs across sales, marketing, finance and operations. Consultancy working directly with B2B clients to deliver custom workflow automations as containerized services deployed either on managed or self-hosted infrastructure. 
 
-## Education 📖 
+## Education 
 
   - MSc Advanced Computing
   - BSc Hons Computer Science
