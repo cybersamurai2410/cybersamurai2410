@@ -43,58 +43,49 @@ Event-driven AI automation platform with live analytics dashboards for SMEs acro
 
 ## AI/ML Project Categories 
 
-### Generative AI:
+### Generative AI
 
-**Agentic Architectures & RAG Pipelines:**
-- **[Chatbot using Agentic RAG for Documents & Databases](https://github.com/cybersamurai2410/Document-Chatbot/)** - Application using LLMs with agentic RAG, allowing users to interact with the chatbot; retrieving context embeddings using vector databases extracted from external data sources including PDF, CSV, SQL, Websites and YouTube Videos.
-- **[ReAct AI Agent with MCP for Workflow Automation ](https://github.com/cybersamurai2410/ReAct_Agent)** - Personal CLI AI agent using local LLM following ReAct (Reasoning + Action) architecture with MCP server for tool calling. Implements model routing and spawns subagents to delegate tasks and execute workflows concurrently. 
-- **[Stock Analysis Report Generator using Hierarchical Multi-Agent AI](https://github.com/cybersamurai2410/stock-analysis_multi-agents-AI)** - Generates stock analysis report from a company name using an LLM powered multi-agent system accessing various tools for extracting financial data and web scraping information.
-- **[Agentic Knowledge Graph Construction for Supply Chain Analysis](https://github.com/cybersamurai2410/agentic-knowledge-graph-construction/)** - Multi-agent system for constructing knowledge graphs as long-term memory from structured and unstructured data for representing supply chain manufacturing networks for responding to queries using GraphRAG.
-- **[Structured Report with Deep Research and Podcast Generation using Agentic AI](https://github.com/cybersamurai2410/structured-report-generation)** - Structured report generation with UI and API development, using LLM powered agentic AI for any given topic by automatically planning then conducting iterative research with reflection and writing sections simultaneously with concurrent processing. Integrated TTS API using the report to generate podcasts in audio format.
-- **[Adaptive Multimodal RAG with Query Analysis and Self-Reflection for Research Papers](https://github.com/cybersamurai2410/adaptive-rag)** - Developed web application with front-end UI and back-end API using advanced RAG architecture that combines query analysis and self-reflection, which routes prompts to invoke LLM calls with vector embedding search from multimodal data or web search as context to generate responses.
-- **[Computer Operator using Parallel Multi-Agent AI ](https://github.com/cybersamurai2410/computer-operator-agents/)** - Implemented multi-agent AI system using LLMs to autonomously control a web browser within a virtual machine. Enabled agents to interpret goals, plan actions and execute sequences in a remote desktop by simulating human interaction.
-- **[Deep Agentic Architecture for Harness Engineering](https://github.com/cybersamurai2410/deep-agents-architecture)** - Agentic AI architecture for harness engineering by combining planning, tool calling, subagents, filesystem and context management.
-- **[Knowledge Graphs with GraphRAG for SEC 10K Filings](https://github.com/cybersamurai2410/Knowledge-Graph_RAG)** - Automatically construct knowledge graphs from text documents from web scraping SEC filings then storing vector embeddings in Neo4j graph database for hybrid RAG with LLMs to retrieve context for question-answering based on the relationships between the data by generating Cypher queries. 
-- **[Graph Analysis using Multi-Agent Collaboration with LLMs](https://github.com/cybersamurai2410/graph_analysis_multi-agents/)** - Reimplemented research paper of multi-agent systems optimized for understanding data within graph representations using LLMs.
-- **[Small Language Model Reasoning using Multi-Agent Graph Distillation](https://github.com/cybersamurai2410/multi-agent_graph_distillation/)** - Reimplemented research paper using structured knowledge distillation to improve reasoning of small language models from integrating multi-agent interaction graph with LLMs. 
+**Agentic Architectures & RAG Pipelines**
+- **[Conversational Agentic RAG for Documents & Databases](https://github.com/cybersamurai2410/Document-Chatbot/)**
+- **[ReAct AI Agent Orchestrator for Spawning Parallel Subagents with MCP](https://github.com/cybersamurai2410/ReAct_Agent)**
+- **[Agentic Knowledge Graph Construction with GraphRAG for Supply Chain Analysis](https://github.com/cybersamurai2410/agentic-knowledge-graph-construction/)**
+- **[Stock Analysis Report Generator using Hierarchical Multi-Agent AI](https://github.com/cybersamurai2410/stock-analysis_multi-agents-AI)**
+- **[Structured Report with Deep Research and Podcast Generation using Agentic AI](https://github.com/cybersamurai2410/structured-report-generation)** 
+- **[Adaptive Multimodal Multi-Vector RAG for Research Papers](https://github.com/cybersamurai2410/adaptive-rag)** 
+- **[Computer Operator using Parallel Multi-Agent AI ](https://github.com/cybersamurai2410/computer-operator-agents/)** 
+- **[Deep Agentic Architecture for Harness Engineering](https://github.com/cybersamurai2410/deep-agents-architecture)** 
+- **[Knowledge Graphs with GraphRAG for SEC Filings](https://github.com/cybersamurai2410/Knowledge-Graph_RAG)** 
+- **[Graph Analysis using Multi-Agent Collaboration with LLMs](https://github.com/cybersamurai2410/graph_analysis_multi-agents/)**
+- **[Small Language Model Reasoning using Multi-Agent Graph Distillation](https://github.com/cybersamurai2410/multi-agent_graph_distillation/)** 
 
-**LLM Fine-Tuning:**
-- **[Fine-Tuning LLMs using PEFT QLoRA for SQL](https://github.com/cybersamurai2410/sql-instruct-qlora-llm)** - Applied supervised fine-tuning with 4bit quantization by using QLoRA on an open-source 11B parameter LLM for generating SQL queries accurately.
-- **[Fine-Tuning VLM with LoRA for E-commerce Product Descriptions](https://github.com/cybersamurai2410/vlm-fine-tuned-lora)** - Applied supervised fine-tuning with LoRA adapters for multimodal VLM to generate Amazon product descriptions from images. 
-- **[Fine-Tuning Mixture-of-Experts (MoE) using MixLoRA for STEM](https://github.com/cybersamurai2410/moe-mixlora)** - Implemented parallel fine-tuning of MoE using MixLoRA targeting the expert layers specialized within STEM domains. 
-- **[Fine-Tuning Mamba State-Space Model (SSM) for Named Entity Recognition](https://github.com/cybersamurai2410/mamba-fine-tuned-ner)** - Fine-tuned Mamba model targeting the mixer layers for generating NER tagging from text. 
-- **[Multimodal Mixture-of-Experts Model from Fine-Tuned VLM](https://github.com/cybersamurai2410/moe-vlm)** - Developed multimodal MoE model from multiple open-source fine-tuned VLMs for generating detailed image captions by dynamically selecting specialized experts for diverse image-text understanding tasks. 
-  
-<!--
-https://huggingface.co/blog/fine-tune-vit - Fine-Tuning Vision Transformer (ViT) for Image Classification
-https://www.philschmid.de/fine-tune-multimodal-llms-with-trl - Fine-Tuning VLM with LoRA for E-commerce Product Descriptions
-https://gautam75.medium.com/fine-tuning-vision-language-models-using-lora-b640c9af8b3c - Fine-Tuning VLM 
-https://medium.com/@prakharsaxena11111/finetuning-mixtral-7bx8-6071b0ebf114 - Fine-Tuning MoE
-https://huggingface.co/blog/mjbuehler/phi-3-vision-cephalo-moe - Multimodal Mixture-of-Experts Model from Fine-Tuned VLM
-https://huggingface.co/blog/mlabonne/frankenmoe - Create MoE with MergeKit
--->
+**LLM Fine-Tuning**
+- **[Instruction Tuning LLM using PEFT QLoRA and Few-Shot Learning for SQL AI Agent](https://github.com/cybersamurai2410/sql-instruct-qlora-llm)**
+- **[Fine-Tuning VLM with LoRA for E-commerce Product Descriptions](https://github.com/cybersamurai2410/vlm-fine-tuned-lora)**
+- **[Fine-Tuning Mixture-of-Experts (MoE) using MixLoRA for STEM](https://github.com/cybersamurai2410/moe-mixlora)**
+- **[Fine-Tuning Mamba State-Space Model (SSM) for Named Entity Recognition](https://github.com/cybersamurai2410/mamba-fine-tuned-ner)**
+- **[Multimodal Mixture-of-Experts Model from Fine-Tuned VLM](https://github.com/cybersamurai2410/moe-vlm)**
 
-### Machine Learning & Data Science:
-- **[Anomaly Detection in Financial Transactions using Autoencoders for Semi-Supervised Learning](https://github.com/cybersamurai2410/Transaction-Fraud-Detection)** - Detects fraudulent transactions from dimensionality reduced credit card data. Implemented autoencoder neural networks for anomaly detection and also for feature extraction in binary classification including logistic regression and support vector machines.
-- **[Time Series Sales Forecasting API using Regression with MLOps ](https://github.com/cybersamurai2410/Sales-Forecasting)** - Predict weekly sales on time series data of store chain, using regression models (Random Forest, XGBoost, LSTM) and ARMIA for forecasting sales. Deployed these models as an API running on Docker container through AWS elastic container service to be accessed with a public URL. Applied MLOps using MLflow for logging metrics of model versions and GitHub Actions for CI/CD to automate the process of executing unit tests, containerization and deployment to cloud.
-- **[Breast Cancer Prediction using Ensemble Learning and Image Recognition](https://github.com/cybersamurai2410/BreastCancer_Prediction)** - Predict breast cancer using a stacking ensemble of classification algorithms (Random Forest, XGBoost, SVM) to generate meta-features, which is then further trained using Logistic Regression as the meta-model. Implemented CNN for image classification from detecting breast cancer features. 
-- **[Recommendation System for E-commerce using Clustering and Collaborative Filtering](https://github.com/cybersamurai2410/Product-Recommendation)** - Hybrid recommendation engine using both unsupervised learning and collaborative filtering on Amazon product data. Implemented KMeans and Agglomerative Clustering to group similar products based on metadata and built an item-based collaborative filtering pipeline using user–product ratings to generate personalized suggestions.
-- **[SASRec (Self-Attentive Sequential Recommendation) Music Playlist Predictor](https://github.com/cybersamurai2410/sasrec-playlist-predictor)** - Sequential recommendation system using a transformer-based SASRec model trained on Spotify playlist dataset. Implemented masked self-attention with positional embeddings to predict the next track in a playlist
-- **[Anomaly Detection in Urban Traffic using Graph Variational Autoencoders](https://github.com/cybersamurai2410/graphvae-traffic-anomaly-detection)** - Implemented GraphVAE trained on the METR-LA dataset with graph convolutional network with encoder-decoder architecture for modeling spatiotemporal sensor patterns and detecting anomalies in traffic through reconstruction error.
-- **[Hybrid Graph Neural Networks for Movie Recommendation](https://github.com/cybersamurai2410/hybrid-gnn-movie-rec)** - Graph architecture of movie recommendation system using a hybrid NGCF + R-GCN architecture. Constructed a heterogeneous graph from IMDb and MovieLens datasets linking users, movies and associated entities (actors, directors, genres).
+### Machine Learning & Data Science
+- **[Anomaly Detection in Financial Transactions using Autoencoders for Semi-Supervised Learning](https://github.com/cybersamurai2410/Transaction-Fraud-Detection)**
+- **[Time Series Sales Forecasting using Regression with MLOps ](https://github.com/cybersamurai2410/Sales-Forecasting)**
+- **[Breast Cancer Prediction using Ensemble Learning and Image Recognition](https://github.com/cybersamurai2410/BreastCancer_Prediction)**
+- **[Recommendation System for E-commerce using Clustering and Collaborative Filtering](https://github.com/cybersamurai2410/Product-Recommendation)**
+- **[SASRec (Self-Attentive Sequential Recommendation) Music Playlist Predictor](https://github.com/cybersamurai2410/sasrec-playlist-predictor)**
+- **[Anomaly Detection in Urban Traffic using Graph Variational Autoencoders](https://github.com/cybersamurai2410/graphvae-traffic-anomaly-detection)**
+- **[Hybrid Graph Neural Networks for Movie Recommendation](https://github.com/cybersamurai2410/hybrid-gnn-movie-rec)**
 
-### Computer Vision & NLP:
-- **[Object Detection and Tracking for Weapon Possession](https://github.com/cybersamurai2410/Threat_Detector)** - Demonstrates computer vision for surveillance by applying transfer learning on pretrained YOLOR model and implementing DeepSORT algorithm to detect and track possession of weapons in real-time via video input stream.  
-- **[Image Caption Generator & Vision-Language App](https://github.com/cybersamurai2410/Image_Caption)** - The neural network architecture combines CNNs and RNNs to output text captions based on input image features. Developed application using open-source models for vision-language tasks including image captioning, image-text matching and visual Q&A.
-- **[Fine-Tuning Vision Transformer (ViT) for Image Classification](https://github.com/cybersamurai2410/vit-img-classification)** - Fine-Tuned ViT from the encoder to tokenize images for classification by splitting into grid of sub-image patches and embedding with linear projection. 
-- **[Pose Estimation for Video Analytics](https://github.com/cybersamurai2410/PoseEstimation)** - Real-time human pose detection using MediaPipe to track movements of the human body from video input.
-- **[Multimodal Chatbot using Similarity Search and Fuzzy Logic](https://github.com/cybersamurai2410/Ecosystem_Chatbot)** - Developed chatbot using knowledge about the topic of ecosystems to answer queries with various NLP and computer vision techniques such as cosine similarity, fuzzy logic and image recognition. 
-- **[Image Generation using GANs (Generative Adversarial Networks)](https://github.com/cybersamurai2410/GAN-image_gen)** - Training the adversarial network with the generator and discriminator to generate images.
-- **[Zero-Shot Classification from Image & Audio](https://github.com/cybersamurai2410/Zero-Shot_Classification)** - Developed app using open-source models that classifies image and audio inputs from set of unseen labels without requiring prior training.  
-- **[Speech Recognition](https://github.com/cybersamurai2410/Speech_Recognition)** - Developed app using open-source models that takes speech inputs as audio and output text as well as converting text to speech.
-- **[Image Segmentation](https://github.com/cybersamurai2410/Image_Segmentation)** - Developed app using open-source models that segment objects from any data point and predict depth estimation within an image.
+### Computer Vision & NLP
+- **[Object Detection and Tracking for Weapon Possession](https://github.com/cybersamurai2410/Threat_Detector)**
+- **[Image Caption Generator & Vision-Language Matching using CNN & RNN](https://github.com/cybersamurai2410/Image_Caption)**
+- **[Fine-Tuning Vision Transformer (ViT) for Image Classification](https://github.com/cybersamurai2410/vit-img-classification)**
+- **[Pose Estimation for Video Analytics of Human Anatomy](https://github.com/cybersamurai2410/PoseEstimation)**
+- **[Multimodal Chatbot using Similarity Search and Fuzzy Logic](https://github.com/cybersamurai2410/Ecosystem_Chatbot)**
+- **[Image Generation for Outfits using GANs (Generative Adversarial Networks)](https://github.com/cybersamurai2410/GAN-image_gen)**
+- **[Zero-Shot Classification for Unlabeled Data from Image & Audio](https://github.com/cybersamurai2410/Zero-Shot_Classification)**
+- **[Speech Recognition for Audio to Text Conversion](https://github.com/cybersamurai2410/Speech_Recognition)**
+- **[Image Segmentation with Depth Estimation for Objects](https://github.com/cybersamurai2410/Image_Segmentation)**
 
-### Reinforcement Learning & Search Algorithms: 
-- **[Time Series Trading using Deep Reinforcement Learning with Recurrent Neural Networks](https://github.com/cybersamurai2410/RL_Trading)** - Implemented ensemble model of DRL algorithms by aggregating the actions between DQN, PPO and A2C models with RNN integration to optimize stock trading decisions in both discrete and continuous environments.  
-- **[Pacman Game using Q-Learning](https://github.com/cybersamurai2410/Pacman_QLearning)** - Q-Learning RL algorithm implemented to play Pacman by allowing an agent to navigate the maze and optimize strategy through trial and error to maximize rewards by balancing exploration and exploitation.
-- **[Tic-Tac-Toe Game using MiniMax Search](https://github.com/cybersamurai2410/Tic-Tac-Toe)** - Minimax search algorithm implemented to play Tic-Tac-Toe by exhaustively evaluating all possible moves to determine the optimal action assuming both players play to maximize their chances of winning.
+### Reinforcement Learning & Search Algorithms
+- **[Time Series Trading using Deep Reinforcement Learning with Recurrent Neural Networks](https://github.com/cybersamurai2410/RL_Trading)**
+- **[Pacman Gaming Agent using Q-Learning](https://github.com/cybersamurai2410/Pacman_QLearning)** 
+- **[Tic-Tac-Toe Game using MiniMax Search](https://github.com/cybersamurai2410/Tic-Tac-Toe)**
