@@ -63,7 +63,7 @@ Event-driven AI automation platform with live analytics dashboards for SMEs acro
 - **[Fine-Tuning VLM with LoRA for E-commerce Product Descriptions](https://github.com/cybersamurai2410/vlm-fine-tuned-lora)**
 - **[Fine-Tuning Mixture-of-Experts (MoE) using MixLoRA for STEM](https://github.com/cybersamurai2410/moe-mixlora)**
 - **[Fine-Tuning Mamba State-Space Model (SSM) for Named Entity Recognition](https://github.com/cybersamurai2410/mamba-fine-tuned-ner)**
-- **[Multimodal Mixture-of-Experts Model from Fine-Tuned VLM](https://github.com/cybersamurai2410/moe-vlm)**
+- **[Multimodal Mixture-of-Experts Model from Fine-Tuned VLM for System Design](https://github.com/cybersamurai2410/moe-vlm)**
 
 ### Machine Learning & Data Science
 - **[Anomaly Detection in Financial Transactions using Autoencoders for Semi-Supervised Learning](https://github.com/cybersamurai2410/Transaction-Fraud-Detection)**
@@ -77,7 +77,7 @@ Event-driven AI automation platform with live analytics dashboards for SMEs acro
 ### Computer Vision & NLP
 - **[Object Detection and Tracking for Weapon Possession](https://github.com/cybersamurai2410/Threat_Detector)**
 - **[Image Caption Generator & Vision-Language Matching using CNN & RNN](https://github.com/cybersamurai2410/Image_Caption)**
-- **[Fine-Tuning Vision Transformer (ViT) for Image Classification](https://github.com/cybersamurai2410/vit-img-classification)**
+- **[Fine-Tuning Vision Transformer (ViT) for Image Classification of Vehicles](https://github.com/cybersamurai2410/vit-img-classification)**
 - **[Pose Estimation for Video Analytics of Human Anatomy](https://github.com/cybersamurai2410/PoseEstimation)**
 - **[Multimodal Chatbot using Similarity Search and Fuzzy Logic](https://github.com/cybersamurai2410/Ecosystem_Chatbot)**
 - **[Image Generation for Outfits using GANs (Generative Adversarial Networks)](https://github.com/cybersamurai2410/GAN-image_gen)**
